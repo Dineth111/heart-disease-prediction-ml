@@ -1,0 +1,1021 @@
+Age,Gender,Chest_Pain_Type,Resting_Blood_Pressure,Cholesterol,Fasting_Blood_Sugar,Resting_ECG,Maximum_Heart_Rate,Exercise_Induced_Angina,Oldpeak,ST_Slope,Heart_Disease
+59.0,Female,Asymptomatic,133.0,293.0,1.0,Normal,146.0,Yes,2.1,Flat,1
+53.0,Male,Asymptomatic,139.0,236.0,,Normal,155.0,No,,Flat,0
+,Male,Asymptomatic,,189.0,0.0,Left Ventricular Hypertrophy,142.0,Yes,0.0,Up,1
+70.0,Female,Atypical Angina,113.0,222.0,0.0,Left Ventricular Hypertrophy,151.0,,1.9,Down,1
+52.0,Female,Non-Anginal Pain,140.0,248.0,0.0,Left Ventricular Hypertrophy,133.0,No,,Flat,1
+52.0,Male,Typical Angina,112.0,295.0,0.0,Normal,131.0,No,1.7,Flat,1
+70.0,Male,Non-Anginal Pain,138.0,267.0,0.0,Normal,159.0,No,0.1,Up,0
+62.0,Female,Asymptomatic,105.0,201.0,0.0,Normal,123.0,Yes,6.2,Up,1
+50.0,Male,Non-Anginal Pain,145.0,351.0,,Left Ventricular Hypertrophy,162.0,No,0.3,Down,1
+60.0,Female,Asymptomatic,107.0,251.0,0.0,Left Ventricular Hypertrophy,127.0,No,1.3,Up,1
+50.0,Female,Asymptomatic,139.0,297.0,0.0,Left Ventricular Hypertrophy,151.0,No,2.4,Up,1
+50.0,Female,Typical Angina,141.0,,0.0,Normal,149.0,No,0.3,Up,0
+57.0,Male,Asymptomatic,117.0,264.0,0.0,Normal,145.0,No,2.4,Flat,1
+35.0,Female,Typical Angina,140.0,277.0,1.0,Normal,146.0,Yes,0.4,Up,0
+37.0,Male,Non-Anginal Pain,134.0,294.0,0.0,Normal,181.0,No,3.7,Flat,1
+49.0,Male,Typical Angina,120.0,287.0,0.0,Normal,141.0,No,0.3,Up,0
+44.0,Male,Typical Angina,111.0,279.0,0.0,Left Ventricular Hypertrophy,139.0,No,3.1,Flat,1
+58.0,Male,Atypical Angina,94.0,225.0,0.0,Normal,131.0,No,0.1,Flat,0
+45.0,Female,Atypical Angina,136.0,214.0,0.0,Normal,120.0,No,1.2,Up,0
+40.0,Female,Non-Anginal Pain,101.0,254.0,0.0,Normal,167.0,No,0.8,Flat,0
+69.0,Female,Non-Anginal Pain,131.0,281.0,0.0,Left Ventricular Hypertrophy,116.0,No,0.6,Up,0
+52.0,Male,Typical Angina,125.0,229.0,0.0,ST-T Wave Abnormality,149.0,No,0.3,Up,0
+55.0,Male,Typical Angina,142.0,287.0,1.0,ST-T Wave Abnormality,126.0,No,1.2,Flat,1
+40.0,Male,Non-Anginal Pain,124.0,305.0,1.0,Left Ventricular Hypertrophy,160.0,Yes,0.2,Up,0
+49.0,Female,Atypical Angina,124.0,198.0,0.0,Normal,156.0,Yes,0.8,Up,0
+56.0,Male,,143.0,202.0,0.0,ST-T Wave Abnormality,124.0,No,0.3,Up,1
+43.0,Female,,136.0,233.0,0.0,Normal,164.0,No,3.1,Up,0
+58.0,Male,Asymptomatic,135.0,253.0,1.0,Normal,163.0,No,0.0,Flat,1
+48.0,Male,Asymptomatic,138.0,216.0,,Left Ventricular Hypertrophy,159.0,No,0.2,Up,0
+52.0,Female,Atypical Angina,102.0,300.0,1.0,Left Ventricular Hypertrophy,138.0,Yes,0.3,Down,1
+48.0,Male,Asymptomatic,143.0,259.0,,Normal,131.0,,0.5,Down,1
+73.0,Female,Atypical Angina,141.0,241.0,1.0,Normal,125.0,No,0.3,Up,0
+54.0,Female,Atypical Angina,111.0,175.0,0.0,Normal,126.0,Yes,0.7,Up,0
+44.0,Male,Asymptomatic,125.0,180.0,0.0,Normal,176.0,No,2.1,Flat,1
+63.0,Male,Atypical Angina,129.0,252.0,0.0,Normal,143.0,,1.2,Up,0
+42.0,Male,Asymptomatic,127.0,144.0,0.0,Normal,162.0,Yes,0.9,Up,0
+,Female,Asymptomatic,136.0,285.0,1.0,,144.0,No,0.1,Up,0
+35.0,Male,Asymptomatic,155.0,232.0,0.0,Left Ventricular Hypertrophy,163.0,No,1.2,Flat,1
+41.0,Female,Asymptomatic,149.0,385.0,0.0,Normal,148.0,No,0.2,Flat,1
+56.0,Female,Atypical Angina,106.0,343.0,0.0,Normal,150.0,Yes,1.5,Up,0
+62.0,Female,Atypical Angina,141.0,231.0,1.0,Normal,135.0,No,0.3,Up,0
+56.0,Male,Non-Anginal Pain,153.0,235.0,0.0,Left Ventricular Hypertrophy,144.0,No,0.5,Down,1
+53.0,Female,Atypical Angina,136.0,284.0,0.0,Normal,160.0,No,0.4,Flat,0
+51.0,Female,Non-Anginal Pain,149.0,316.0,0.0,Normal,150.0,No,2.0,Flat,0
+40.0,Male,Asymptomatic,166.0,166.0,,Normal,162.0,,0.1,,0
+47.0,,Asymptomatic,148.0,,1.0,Left Ventricular Hypertrophy,155.0,No,0.8,Up,1
+50.0,Female,Atypical Angina,134.0,212.0,0.0,ST-T Wave Abnormality,,No,0.2,Flat,0
+65.0,Male,,148.0,266.0,0.0,,133.0,No,1.2,Up,1
+58.0,Female,Atypical Angina,132.0,262.0,0.0,Left Ventricular Hypertrophy,148.0,Yes,2.4,Up,1
+37.0,Male,Typical Angina,130.0,288.0,0.0,Left Ventricular Hypertrophy,143.0,No,0.6,Flat,1
+58.0,Male,Asymptomatic,123.0,186.0,0.0,ST-T Wave Abnormality,159.0,No,0.7,Up,0
+51.0,Female,Atypical Angina,158.0,135.0,0.0,Normal,159.0,Yes,2.6,Down,1
+48.0,Male,Typical Angina,115.0,278.0,0.0,Normal,110.0,Yes,0.7,Up,1
+61.0,Male,Typical Angina,157.0,202.0,1.0,Left Ventricular Hypertrophy,154.0,No,0.7,Down,1
+65.0,Male,Non-Anginal Pain,138.0,149.0,0.0,Normal,155.0,No,0.9,Down,1
+,Male,Non-Anginal Pain,104.0,246.0,0.0,Normal,124.0,No,1.2,Up,0
+46.0,Male,Atypical Angina,136.0,275.0,0.0,ST-T Wave Abnormality,,No,0.1,Flat,0
+51.0,Male,Typical Angina,92.0,234.0,0.0,Normal,152.0,No,1.7,Up,0
+58.0,Female,,141.0,219.0,0.0,ST-T Wave Abnormality,109.0,No,0.6,Down,1
+64.0,Male,Atypical Angina,145.0,232.0,0.0,ST-T Wave Abnormality,159.0,Yes,0.1,Flat,1
+50.0,Female,,119.0,223.0,0.0,Normal,179.0,No,1.5,Flat,0
+53.0,Male,Non-Anginal Pain,132.0,179.0,0.0,Left Ventricular Hypertrophy,169.0,No,0.5,Flat,0
+43.0,Female,Atypical Angina,165.0,207.0,1.0,Normal,143.0,Yes,0.1,Up,0
+43.0,Male,Atypical Angina,120.0,263.0,0.0,Normal,140.0,No,1.0,Up,0
+63.0,Female,Asymptomatic,110.0,254.0,0.0,Normal,144.0,No,2.1,Up,1
+68.0,,Non-Anginal Pain,156.0,247.0,1.0,ST-T Wave Abnormality,121.0,No,2.2,Flat,1
+54.0,Male,Asymptomatic,165.0,195.0,0.0,Left Ventricular Hypertrophy,125.0,No,3.2,Flat,1
+65.0,Male,Typical Angina,130.0,231.0,0.0,Normal,108.0,No,2.0,Flat,1
+58.0,Male,Non-Anginal Pain,148.0,142.0,0.0,ST-T Wave Abnormality,145.0,Yes,0.0,Up,0
+48.0,Male,Typical Angina,154.0,248.0,1.0,Normal,186.0,No,0.5,Flat,1
+58.0,Male,Non-Anginal Pain,116.0,,1.0,Left Ventricular Hypertrophy,154.0,No,1.7,Up,1
+70.0,Female,Asymptomatic,121.0,173.0,0.0,,136.0,No,0.5,Flat,1
+54.0,Male,Atypical Angina,152.0,213.0,0.0,Left Ventricular Hypertrophy,149.0,No,0.9,Down,1
+70.0,Male,Typical Angina,160.0,254.0,1.0,Normal,132.0,No,0.9,Up,1
+30.0,Female,Typical Angina,140.0,296.0,0.0,Normal,153.0,Yes,0.5,Up,0
+63.0,Female,Atypical Angina,114.0,219.0,1.0,Normal,117.0,,2.3,Up,1
+55.0,Male,Typical Angina,165.0,208.0,0.0,Left Ventricular Hypertrophy,147.0,No,0.7,Flat,1
+52.0,Male,Typical Angina,120.0,151.0,0.0,Normal,131.0,Yes,0.6,Flat,1
+55.0,Male,Asymptomatic,123.0,244.0,0.0,Left Ventricular Hypertrophy,139.0,Yes,6.0,Flat,1
+35.0,Female,Non-Anginal Pain,136.0,331.0,0.0,Normal,164.0,No,0.7,Up,0
+52.0,Female,Atypical Angina,157.0,252.0,0.0,Normal,134.0,No,0.2,Flat,0
+58.0,Male,Asymptomatic,145.0,,0.0,Normal,140.0,Yes,0.7,Flat,1
+69.0,Female,Typical Angina,137.0,254.0,0.0,Left Ventricular Hypertrophy,100.0,No,1.7,Up,1
+49.0,Female,Asymptomatic,138.0,239.0,0.0,Normal,172.0,No,1.5,Flat,1
+46.0,Male,Atypical Angina,130.0,203.0,1.0,Left Ventricular Hypertrophy,161.0,No,1.6,Up,0
+49.0,Female,Asymptomatic,140.0,277.0,0.0,Left Ventricular Hypertrophy,152.0,No,1.2,Flat,1
+64.0,Male,Non-Anginal Pain,90.0,250.0,0.0,Left Ventricular Hypertrophy,129.0,No,0.3,Flat,1
+58.0,Male,Asymptomatic,124.0,,1.0,Normal,122.0,Yes,2.0,Up,1
+49.0,Male,Asymptomatic,134.0,196.0,0.0,ST-T Wave Abnormality,151.0,Yes,2.2,Flat,1
+60.0,Male,Atypical Angina,109.0,298.0,0.0,Left Ventricular Hypertrophy,161.0,No,0.2,Flat,0
+55.0,Male,Asymptomatic,136.0,269.0,0.0,Normal,132.0,No,0.1,Up,0
+64.0,Female,Atypical Angina,126.0,215.0,0.0,ST-T Wave Abnormality,124.0,No,3.7,Flat,1
+47.0,Male,Atypical Angina,161.0,285.0,1.0,Normal,182.0,No,2.0,Flat,1
+51.0,Male,Atypical Angina,158.0,217.0,0.0,Normal,149.0,No,2.2,Up,1
+51.0,Male,Non-Anginal Pain,121.0,204.0,0.0,Normal,172.0,No,2.2,Up,0
+40.0,Female,Typical Angina,127.0,205.0,0.0,Normal,169.0,Yes,0.8,Up,0
+57.0,Male,Non-Anginal Pain,128.0,160.0,0.0,Normal,156.0,Yes,1.0,Up,0
+57.0,Male,Non-Anginal Pain,121.0,261.0,0.0,Normal,130.0,No,0.8,Up,0
+55.0,Male,Asymptomatic,133.0,157.0,0.0,ST-T Wave Abnormality,143.0,Yes,0.1,Up,1
+52.0,,Asymptomatic,116.0,,0.0,Normal,167.0,Yes,1.4,Up,0
+40.0,Female,Atypical Angina,109.0,146.0,0.0,Normal,146.0,No,0.7,Down,0
+50.0,Female,Atypical Angina,141.0,236.0,0.0,Normal,171.0,No,1.0,Up,0
+51.0,Male,Atypical Angina,141.0,233.0,0.0,ST-T Wave Abnormality,144.0,No,,Flat,1
+46.0,Female,,115.0,225.0,0.0,ST-T Wave Abnormality,166.0,Yes,0.7,Flat,0
+53.0,Female,Typical Angina,146.0,193.0,0.0,ST-T Wave Abnormality,152.0,Yes,0.2,Flat,0
+59.0,Female,Atypical Angina,118.0,187.0,0.0,Left Ventricular Hypertrophy,133.0,Yes,0.3,,0
+73.0,Male,Atypical Angina,134.0,260.0,0.0,Normal,119.0,No,0.2,Down,1
+56.0,Male,Asymptomatic,144.0,215.0,0.0,Left Ventricular Hypertrophy,123.0,No,0.2,Flat,1
+57.0,Male,Non-Anginal Pain,129.0,254.0,0.0,Normal,144.0,No,3.6,Flat,1
+54.0,Female,Atypical Angina,138.0,200.0,0.0,Normal,141.0,No,0.2,Up,0
+35.0,Male,Non-Anginal Pain,120.0,248.0,0.0,ST-T Wave Abnormality,171.0,No,0.3,Up,0
+54.0,Male,Typical Angina,126.0,298.0,0.0,Normal,143.0,Yes,0.9,Flat,1
+55.0,Male,Atypical Angina,126.0,266.0,0.0,,138.0,No,0.9,Up,0
+79.0,Female,Non-Anginal Pain,116.0,221.0,0.0,ST-T Wave Abnormality,122.0,No,0.2,Flat,0
+53.0,Male,Non-Anginal Pain,126.0,251.0,1.0,Normal,174.0,No,1.6,Up,0
+58.0,Female,Atypical Angina,102.0,229.0,0.0,Normal,137.0,No,1.5,Flat,1
+54.0,Female,Asymptomatic,121.0,240.0,0.0,Normal,140.0,Yes,0.3,Down,1
+43.0,Male,Asymptomatic,124.0,225.0,0.0,Left Ventricular Hypertrophy,167.0,No,0.3,Flat,0
+66.0,Female,Non-Anginal Pain,125.0,232.0,0.0,ST-T Wave Abnormality,,No,2.8,Flat,1
+62.0,Male,Non-Anginal Pain,125.0,249.0,0.0,Normal,115.0,Yes,1.7,Flat,1
+62.0,Female,Non-Anginal Pain,128.0,195.0,0.0,,130.0,Yes,1.2,Flat,1
+45.0,Male,Atypical Angina,138.0,194.0,1.0,ST-T Wave Abnormality,158.0,No,0.1,Down,1
+69.0,Female,Atypical Angina,145.0,177.0,0.0,Left Ventricular Hypertrophy,148.0,No,0.5,Flat,0
+40.0,,Typical Angina,118.0,167.0,0.0,Normal,172.0,Yes,0.8,Flat,0
+60.0,Female,Non-Anginal Pain,108.0,185.0,0.0,Normal,120.0,No,0.2,Up,0
+76.0,Female,Non-Anginal Pain,111.0,247.0,0.0,Left Ventricular Hypertrophy,121.0,Yes,0.6,Flat,1
+45.0,,Atypical Angina,121.0,199.0,0.0,Normal,163.0,No,0.9,Up,0
+49.0,Female,Asymptomatic,123.0,263.0,0.0,Normal,143.0,Yes,0.4,Up,0
+55.0,Female,Asymptomatic,116.0,241.0,0.0,Left Ventricular Hypertrophy,157.0,Yes,1.5,Flat,1
+49.0,Male,Asymptomatic,106.0,151.0,0.0,ST-T Wave Abnormality,128.0,No,1.8,Flat,1
+39.0,Male,Non-Anginal Pain,121.0,269.0,0.0,Normal,140.0,Yes,0.4,Flat,0
+55.0,Female,Asymptomatic,133.0,276.0,0.0,Normal,151.0,No,1.8,Up,0
+44.0,Female,Typical Angina,140.0,195.0,0.0,Normal,165.0,Yes,0.1,Up,0
+59.0,Female,Asymptomatic,119.0,258.0,0.0,Normal,180.0,No,1.8,Flat,1
+45.0,Male,Typical Angina,122.0,201.0,0.0,Left Ventricular Hypertrophy,177.0,Yes,0.2,Up,0
+70.0,Female,Asymptomatic,113.0,244.0,1.0,Normal,150.0,No,0.1,Flat,1
+47.0,Male,Atypical Angina,129.0,,0.0,Left Ventricular Hypertrophy,150.0,No,1.0,Up,0
+51.0,Female,Asymptomatic,114.0,159.0,0.0,Left Ventricular Hypertrophy,153.0,Yes,0.6,Up,0
+63.0,Male,Asymptomatic,140.0,222.0,0.0,Normal,157.0,No,2.4,Down,1
+42.0,Female,Typical Angina,,234.0,0.0,Normal,162.0,Yes,0.5,Up,0
+57.0,Female,Non-Anginal Pain,123.0,222.0,0.0,Normal,135.0,No,0.3,Up,0
+68.0,,Asymptomatic,135.0,186.0,0.0,Left Ventricular Hypertrophy,124.0,Yes,0.7,Up,1
+38.0,Female,Non-Anginal Pain,133.0,222.0,1.0,Left Ventricular Hypertrophy,190.0,No,0.6,Down,0
+56.0,Male,Asymptomatic,178.0,252.0,0.0,Normal,145.0,No,0.4,Flat,1
+,Female,Non-Anginal Pain,136.0,237.0,0.0,ST-T Wave Abnormality,163.0,No,1.2,Up,0
+62.0,Female,Atypical Angina,111.0,,0.0,ST-T Wave Abnormality,124.0,No,1.4,Up,0
+42.0,Male,Atypical Angina,128.0,209.0,0.0,Left Ventricular Hypertrophy,146.0,No,1.9,Flat,1
+41.0,Female,Atypical Angina,98.0,292.0,0.0,Normal,172.0,No,3.6,Up,0
+60.0,Female,Asymptomatic,128.0,187.0,0.0,Normal,151.0,No,0.3,Flat,0
+57.0,Male,Atypical Angina,115.0,261.0,0.0,Left Ventricular Hypertrophy,149.0,No,1.3,Up,0
+57.0,Male,Non-Anginal Pain,146.0,293.0,1.0,Normal,176.0,Yes,0.5,Up,1
+58.0,Female,Non-Anginal Pain,120.0,261.0,0.0,Normal,136.0,No,1.1,Flat,0
+48.0,Female,Non-Anginal Pain,127.0,230.0,0.0,Normal,156.0,No,0.6,Up,0
+57.0,Female,Asymptomatic,118.0,216.0,1.0,Normal,128.0,No,5.1,Flat,1
+57.0,Female,Asymptomatic,161.0,286.0,,Normal,159.0,No,1.3,Up,1
+47.0,Male,Atypical Angina,,175.0,0.0,,162.0,Yes,3.0,Up,1
+73.0,Female,Asymptomatic,162.0,196.0,0.0,Normal,149.0,,1.8,Down,1
+59.0,Male,Asymptomatic,144.0,222.0,0.0,Normal,,Yes,2.3,Up,1
+43.0,Male,Non-Anginal Pain,138.0,295.0,0.0,ST-T Wave Abnormality,174.0,Yes,1.7,Flat,1
+61.0,Male,Asymptomatic,136.0,257.0,0.0,Normal,124.0,Yes,0.6,Up,1
+45.0,Male,Atypical Angina,137.0,196.0,0.0,Normal,165.0,No,0.3,Flat,0
+62.0,Male,Typical Angina,95.0,226.0,0.0,Left Ventricular Hypertrophy,136.0,Yes,0.5,Flat,1
+66.0,Male,Asymptomatic,124.0,212.0,0.0,Left Ventricular Hypertrophy,139.0,Yes,0.0,Up,1
+46.0,Female,Atypical Angina,145.0,208.0,0.0,ST-T Wave Abnormality,173.0,No,0.7,Flat,0
+64.0,Male,Asymptomatic,129.0,284.0,,ST-T Wave Abnormality,138.0,Yes,0.7,Flat,1
+,Male,Asymptomatic,104.0,178.0,0.0,Normal,132.0,Yes,0.7,Up,1
+63.0,Male,Typical Angina,129.0,312.0,1.0,Left Ventricular Hypertrophy,155.0,Yes,3.7,Flat,1
+73.0,Male,Asymptomatic,160.0,277.0,1.0,Normal,114.0,No,2.4,Flat,1
+52.0,Male,Atypical Angina,152.0,289.0,1.0,Left Ventricular Hypertrophy,160.0,No,0.2,Up,0
+47.0,Male,Non-Anginal Pain,128.0,219.0,0.0,Normal,160.0,,0.5,Up,0
+46.0,Female,Non-Anginal Pain,147.0,233.0,0.0,Left Ventricular Hypertrophy,146.0,No,0.6,Up,0
+46.0,Female,Asymptomatic,123.0,175.0,0.0,Left Ventricular Hypertrophy,163.0,No,0.4,Up,0
+54.0,Female,Typical Angina,99.0,216.0,0.0,Left Ventricular Hypertrophy,145.0,Yes,1.6,Flat,1
+58.0,Male,Non-Anginal Pain,113.0,262.0,0.0,Normal,146.0,Yes,0.7,Flat,1
+57.0,Male,Asymptomatic,158.0,298.0,0.0,Normal,141.0,No,0.8,Down,1
+63.0,Female,Asymptomatic,,190.0,0.0,ST-T Wave Abnormality,172.0,No,1.9,Up,1
+55.0,Male,Asymptomatic,125.0,223.0,0.0,Left Ventricular Hypertrophy,172.0,Yes,1.6,Up,1
+69.0,Male,Typical Angina,124.0,233.0,0.0,Normal,121.0,Yes,0.1,Flat,1
+52.0,Male,Atypical Angina,164.0,177.0,0.0,Left Ventricular Hypertrophy,,No,1.3,Flat,1
+82.0,Male,Atypical Angina,159.0,266.0,1.0,Left Ventricular Hypertrophy,131.0,Yes,0.6,Flat,1
+61.0,Male,Asymptomatic,169.0,207.0,1.0,Normal,142.0,No,0.3,Up,1
+46.0,Male,Atypical Angina,127.0,231.0,1.0,Left Ventricular Hypertrophy,149.0,No,0.1,Up,0
+44.0,,Atypical Angina,135.0,219.0,0.0,Normal,145.0,No,0.7,Up,0
+59.0,Male,Asymptomatic,102.0,204.0,0.0,Normal,171.0,Yes,0.4,Down,1
+52.0,Female,Typical Angina,156.0,239.0,0.0,Normal,161.0,No,0.3,Up,0
+,,Asymptomatic,108.0,230.0,0.0,ST-T Wave Abnormality,142.0,Yes,1.2,Flat,1
+59.0,Female,Asymptomatic,133.0,223.0,0.0,Left Ventricular Hypertrophy,130.0,No,1.5,Flat,1
+54.0,Female,Asymptomatic,110.0,207.0,0.0,Normal,108.0,No,0.3,Up,0
+46.0,Female,Atypical Angina,119.0,254.0,,ST-T Wave Abnormality,157.0,No,0.1,Flat,0
+39.0,Male,Typical Angina,114.0,314.0,0.0,ST-T Wave Abnormality,182.0,No,1.9,Flat,1
+50.0,Male,Asymptomatic,119.0,246.0,0.0,Left Ventricular Hypertrophy,143.0,No,0.0,Flat,1
+63.0,Male,Asymptomatic,120.0,284.0,0.0,Normal,117.0,No,2.8,Up,1
+57.0,Female,Asymptomatic,120.0,177.0,0.0,Left Ventricular Hypertrophy,141.0,No,1.0,Up,0
+42.0,Female,Typical Angina,145.0,247.0,0.0,Normal,171.0,No,0.4,Up,0
+56.0,Male,Asymptomatic,110.0,190.0,0.0,Normal,129.0,No,0.3,Up,0
+,Female,Asymptomatic,133.0,173.0,0.0,Normal,132.0,No,0.0,Flat,0
+46.0,Male,Asymptomatic,,206.0,0.0,Normal,169.0,No,,,0
+56.0,Female,Asymptomatic,120.0,293.0,0.0,Left Ventricular Hypertrophy,138.0,Yes,0.1,Up,1
+55.0,Male,Asymptomatic,117.0,282.0,1.0,Normal,130.0,No,0.9,Flat,1
+43.0,Male,Non-Anginal Pain,125.0,250.0,1.0,Left Ventricular Hypertrophy,139.0,No,0.2,Flat,0
+58.0,Male,Typical Angina,151.0,171.0,0.0,Normal,142.0,No,0.8,Up,0
+60.0,Male,Non-Anginal Pain,133.0,231.0,1.0,Normal,145.0,No,0.9,Up,0
+65.0,Male,,120.0,253.0,0.0,Left Ventricular Hypertrophy,116.0,Yes,0.4,Flat,1
+65.0,Male,Atypical Angina,138.0,247.0,0.0,Left Ventricular Hypertrophy,153.0,Yes,0.0,Flat,1
+41.0,Female,Atypical Angina,110.0,157.0,1.0,Normal,152.0,Yes,0.0,Flat,0
+45.0,Male,Typical Angina,142.0,199.0,0.0,Normal,175.0,Yes,0.0,Up,0
+60.0,Male,Atypical Angina,137.0,237.0,0.0,Normal,124.0,No,1.3,Up,0
+60.0,Female,Typical Angina,124.0,,0.0,Normal,143.0,No,0.4,Up,0
+60.0,Female,Asymptomatic,114.0,141.0,0.0,Left Ventricular Hypertrophy,120.0,No,1.6,Flat,1
+85.0,Male,Asymptomatic,114.0,232.0,0.0,Left Ventricular Hypertrophy,107.0,No,0.6,Flat,1
+60.0,Male,Typical Angina,139.0,246.0,0.0,Normal,158.0,Yes,0.6,Up,0
+66.0,Male,Asymptomatic,152.0,278.0,0.0,Left Ventricular Hypertrophy,112.0,Yes,0.7,Flat,1
+64.0,Male,Non-Anginal Pain,118.0,271.0,,ST-T Wave Abnormality,112.0,Yes,1.2,Flat,1
+61.0,Female,Atypical Angina,138.0,266.0,0.0,Normal,125.0,No,0.3,Flat,0
+51.0,Male,Typical Angina,92.0,204.0,1.0,Normal,160.0,No,0.1,Down,0
+62.0,Male,Non-Anginal Pain,119.0,,1.0,ST-T Wave Abnormality,142.0,Yes,0.8,Up,1
+47.0,Female,Asymptomatic,,222.0,1.0,ST-T Wave Abnormality,150.0,Yes,0.4,Down,1
+52.0,Male,Asymptomatic,113.0,285.0,0.0,Normal,158.0,Yes,0.6,Up,1
+50.0,Male,Typical Angina,113.0,302.0,1.0,Normal,124.0,No,1.0,Up,0
+55.0,Male,Typical Angina,117.0,271.0,0.0,Normal,142.0,No,0.7,Flat,0
+78.0,Female,Atypical Angina,135.0,259.0,0.0,Left Ventricular Hypertrophy,162.0,No,1.0,Down,1
+36.0,Male,,126.0,257.0,0.0,Normal,158.0,No,0.8,Flat,0
+61.0,Female,Atypical Angina,90.0,214.0,0.0,Normal,144.0,No,1.3,Flat,0
+38.0,Male,Atypical Angina,91.0,234.0,0.0,Left Ventricular Hypertrophy,163.0,Yes,1.2,Flat,1
+50.0,Male,Asymptomatic,119.0,315.0,0.0,Left Ventricular Hypertrophy,155.0,No,0.8,Flat,1
+65.0,Female,Asymptomatic,138.0,197.0,0.0,Left Ventricular Hypertrophy,122.0,,1.1,Up,1
+55.0,Female,Atypical Angina,90.0,312.0,0.0,Normal,128.0,No,2.1,Flat,0
+44.0,Female,Asymptomatic,121.0,225.0,0.0,Normal,151.0,No,0.6,Flat,0
+47.0,Female,Atypical Angina,120.0,299.0,1.0,Normal,158.0,No,0.5,Flat,0
+61.0,Female,Non-Anginal Pain,154.0,176.0,0.0,Normal,139.0,No,1.4,Up,0
+47.0,Male,Atypical Angina,123.0,266.0,1.0,Left Ventricular Hypertrophy,152.0,Yes,0.9,Flat,1
+57.0,Male,Non-Anginal Pain,136.0,206.0,0.0,Normal,155.0,No,0.1,Down,0
+55.0,Female,Asymptomatic,132.0,176.0,0.0,Normal,136.0,Yes,,Flat,1
+48.0,Male,Non-Anginal Pain,91.0,249.0,0.0,Normal,145.0,Yes,0.0,Down,1
+76.0,Female,Atypical Angina,143.0,285.0,1.0,Normal,100.0,No,1.4,Up,1
+61.0,Female,Non-Anginal Pain,133.0,201.0,1.0,Left Ventricular Hypertrophy,120.0,No,1.4,Flat,1
+34.0,Male,Typical Angina,139.0,172.0,0.0,Normal,176.0,Yes,3.1,Flat,1
+56.0,Male,Asymptomatic,200.0,235.0,0.0,Normal,131.0,No,0.1,Flat,1
+48.0,Female,Non-Anginal Pain,92.0,236.0,0.0,Normal,166.0,No,0.9,Flat,0
+63.0,Male,Atypical Angina,161.0,264.0,0.0,Normal,126.0,Yes,0.6,Flat,1
+47.0,,Non-Anginal Pain,124.0,282.0,0.0,,160.0,No,0.4,Flat,0
+53.0,Male,Non-Anginal Pain,135.0,237.0,0.0,ST-T Wave Abnormality,162.0,No,0.1,Flat,0
+60.0,Female,Typical Angina,129.0,323.0,0.0,ST-T Wave Abnormality,135.0,No,0.8,Up,0
+63.0,Male,Asymptomatic,122.0,250.0,0.0,Left Ventricular Hypertrophy,177.0,No,0.7,Flat,1
+42.0,Female,Atypical Angina,119.0,224.0,0.0,Left Ventricular Hypertrophy,184.0,Yes,0.1,Up,0
+51.0,Male,Asymptomatic,135.0,167.0,1.0,Left Ventricular Hypertrophy,151.0,No,0.9,Up,1
+50.0,Male,Asymptomatic,102.0,228.0,0.0,Left Ventricular Hypertrophy,148.0,No,1.3,Flat,1
+48.0,Male,Asymptomatic,143.0,224.0,0.0,Normal,157.0,No,1.5,Up,1
+72.0,Female,Non-Anginal Pain,122.0,283.0,0.0,Normal,151.0,Yes,2.4,Flat,1
+59.0,Female,Non-Anginal Pain,109.0,260.0,0.0,Normal,153.0,No,0.5,Up,0
+42.0,Male,Typical Angina,121.0,186.0,,Left Ventricular Hypertrophy,152.0,No,3.1,Up,1
+64.0,Male,Asymptomatic,152.0,247.0,0.0,Left Ventricular Hypertrophy,127.0,Yes,2.0,Flat,1
+76.0,Male,Atypical Angina,120.0,270.0,0.0,Left Ventricular Hypertrophy,124.0,No,0.4,Up,0
+65.0,Female,Non-Anginal Pain,136.0,308.0,0.0,Normal,117.0,No,0.2,Flat,0
+39.0,Female,Atypical Angina,116.0,279.0,0.0,Left Ventricular Hypertrophy,155.0,Yes,0.6,Up,0
+50.0,Male,Typical Angina,143.0,274.0,1.0,Normal,161.0,No,0.5,Up,0
+67.0,Male,Non-Anginal Pain,142.0,242.0,0.0,Normal,137.0,No,0.9,Up,0
+47.0,Male,Typical Angina,163.0,257.0,1.0,Normal,174.0,No,0.9,Up,0
+59.0,Male,Asymptomatic,126.0,296.0,0.0,Normal,142.0,No,1.4,Flat,1
+62.0,Male,Atypical Angina,142.0,180.0,0.0,Normal,121.0,No,0.7,Up,0
+45.0,Female,Typical Angina,131.0,224.0,0.0,Normal,144.0,No,0.1,Flat,0
+54.0,Male,Non-Anginal Pain,153.0,205.0,0.0,Normal,124.0,No,2.0,Down,1
+30.0,,Typical Angina,117.0,257.0,0.0,ST-T Wave Abnormality,174.0,Yes,0.4,Flat,0
+44.0,Male,Atypical Angina,143.0,295.0,,Left Ventricular Hypertrophy,135.0,No,3.6,Flat,1
+52.0,Male,Asymptomatic,126.0,213.0,0.0,ST-T Wave Abnormality,150.0,Yes,0.1,Up,1
+42.0,Female,Typical Angina,128.0,,0.0,Normal,135.0,Yes,3.2,Up,1
+71.0,Female,Asymptomatic,131.0,221.0,0.0,Left Ventricular Hypertrophy,129.0,Yes,0.1,Flat,1
+40.0,Female,Typical Angina,134.0,281.0,0.0,Left Ventricular Hypertrophy,149.0,No,0.3,Flat,0
+50.0,Male,,127.0,264.0,0.0,Normal,127.0,Yes,0.0,Flat,1
+56.0,Male,Asymptomatic,133.0,259.0,0.0,Normal,146.0,Yes,1.2,Flat,1
+69.0,Female,Atypical Angina,158.0,227.0,1.0,Normal,127.0,Yes,1.9,Up,1
+,Male,Typical Angina,147.0,182.0,0.0,Normal,140.0,Yes,0.6,Up,0
+66.0,Male,Atypical Angina,145.0,263.0,1.0,ST-T Wave Abnormality,135.0,No,2.6,Flat,1
+55.0,Male,Atypical Angina,121.0,202.0,0.0,Left Ventricular Hypertrophy,164.0,No,0.9,Flat,0
+45.0,Male,Asymptomatic,113.0,338.0,0.0,Normal,122.0,Yes,1.0,Flat,1
+59.0,Female,Atypical Angina,147.0,265.0,,Left Ventricular Hypertrophy,148.0,No,1.9,Flat,1
+56.0,Male,Asymptomatic,145.0,213.0,0.0,Left Ventricular Hypertrophy,141.0,No,0.4,Up,0
+48.0,Male,,156.0,212.0,0.0,Left Ventricular Hypertrophy,,No,0.4,Up,1
+55.0,Male,Atypical Angina,119.0,235.0,0.0,Normal,154.0,No,2.4,Flat,1
+51.0,Male,Asymptomatic,125.0,229.0,0.0,Left Ventricular Hypertrophy,164.0,No,2.3,Flat,1
+56.0,Male,Atypical Angina,100.0,290.0,0.0,Normal,140.0,Yes,3.8,Flat,1
+61.0,Male,Asymptomatic,122.0,248.0,0.0,ST-T Wave Abnormality,165.0,No,2.3,Up,1
+70.0,Male,Typical Angina,147.0,207.0,0.0,Normal,134.0,No,0.1,Up,0
+42.0,Female,Asymptomatic,121.0,325.0,0.0,Normal,154.0,No,1.7,Flat,1
+76.0,Male,Non-Anginal Pain,141.0,242.0,0.0,Left Ventricular Hypertrophy,128.0,No,0.5,Up,1
+35.0,Male,Atypical Angina,126.0,274.0,0.0,Normal,188.0,Yes,4.7,Flat,1
+53.0,Female,Non-Anginal Pain,135.0,212.0,0.0,Normal,123.0,No,0.6,Down,0
+60.0,Female,Asymptomatic,109.0,256.0,1.0,Normal,138.0,No,0.8,Flat,1
+57.0,Male,Typical Angina,131.0,253.0,0.0,ST-T Wave Abnormality,121.0,No,0.8,Up,1
+48.0,Male,Typical Angina,90.0,154.0,0.0,Normal,155.0,Yes,0.4,Flat,0
+52.0,Male,Asymptomatic,126.0,330.0,0.0,Left Ventricular Hypertrophy,161.0,No,0.1,Up,0
+50.0,Female,Asymptomatic,100.0,298.0,0.0,,145.0,No,2.3,Up,1
+49.0,Female,Asymptomatic,151.0,222.0,0.0,Normal,154.0,No,1.6,,0
+63.0,Female,Asymptomatic,143.0,190.0,0.0,Normal,,No,0.2,Up,0
+58.0,Male,Asymptomatic,138.0,255.0,0.0,Normal,119.0,No,1.5,Down,1
+48.0,Female,Asymptomatic,157.0,243.0,1.0,Normal,161.0,Yes,,Up,1
+63.0,Male,Atypical Angina,112.0,,0.0,Normal,164.0,Yes,0.5,Up,0
+58.0,Male,Typical Angina,161.0,248.0,0.0,Left Ventricular Hypertrophy,122.0,,0.3,Down,1
+63.0,Male,Asymptomatic,146.0,262.0,,ST-T Wave Abnormality,144.0,No,2.0,Up,1
+61.0,Female,Non-Anginal Pain,125.0,305.0,1.0,Normal,148.0,Yes,1.2,Flat,1
+46.0,Male,Typical Angina,150.0,265.0,,Normal,180.0,No,0.8,Up,0
+49.0,Female,Atypical Angina,110.0,192.0,0.0,Left Ventricular Hypertrophy,124.0,No,0.9,Up,0
+62.0,Male,Asymptomatic,115.0,301.0,0.0,Normal,157.0,Yes,0.1,Down,1
+61.0,Male,Non-Anginal Pain,119.0,313.0,0.0,Normal,138.0,Yes,0.6,Up,0
+54.0,Male,Atypical Angina,120.0,381.0,0.0,Left Ventricular Hypertrophy,132.0,Yes,0.2,Flat,1
+56.0,Male,Non-Anginal Pain,110.0,189.0,0.0,ST-T Wave Abnormality,137.0,No,0.2,Up,0
+67.0,Female,Atypical Angina,152.0,250.0,1.0,ST-T Wave Abnormality,133.0,Yes,1.1,Up,1
+49.0,Male,Atypical Angina,125.0,146.0,0.0,Normal,176.0,Yes,2.4,Up,0
+60.0,Female,Atypical Angina,136.0,264.0,0.0,Normal,152.0,No,0.5,Up,0
+52.0,Female,Typical Angina,,215.0,0.0,ST-T Wave Abnormality,145.0,No,0.2,Up,0
+52.0,Female,Asymptomatic,97.0,326.0,0.0,Normal,159.0,Yes,1.0,Flat,1
+65.0,Male,Atypical Angina,134.0,205.0,0.0,Normal,131.0,No,2.0,,1
+63.0,Male,Asymptomatic,95.0,163.0,0.0,Normal,126.0,No,1.4,Up,1
+63.0,Male,Asymptomatic,128.0,218.0,,Normal,122.0,No,2.0,Up,1
+68.0,Female,Atypical Angina,105.0,151.0,0.0,Left Ventricular Hypertrophy,150.0,No,0.8,Down,0
+55.0,Female,,165.0,273.0,0.0,Left Ventricular Hypertrophy,112.0,Yes,1.4,Down,1
+61.0,Male,Non-Anginal Pain,146.0,147.0,0.0,Left Ventricular Hypertrophy,127.0,No,0.2,Flat,0
+51.0,Female,Asymptomatic,131.0,241.0,0.0,Normal,149.0,No,0.4,Flat,0
+58.0,Male,Atypical Angina,152.0,146.0,1.0,Normal,125.0,Yes,0.5,Up,0
+53.0,Female,Asymptomatic,114.0,225.0,0.0,Normal,,No,0.7,Up,0
+55.0,Male,Non-Anginal Pain,139.0,313.0,0.0,Normal,166.0,No,2.6,Flat,1
+60.0,Female,Atypical Angina,133.0,256.0,0.0,Left Ventricular Hypertrophy,143.0,Yes,2.1,Flat,1
+46.0,Male,Typical Angina,134.0,201.0,0.0,Normal,189.0,Yes,0.1,Flat,0
+75.0,Female,Asymptomatic,152.0,238.0,,Normal,122.0,No,0.2,Up,1
+44.0,Female,Asymptomatic,143.0,240.0,0.0,Normal,150.0,Yes,0.4,Down,1
+42.0,Female,Atypical Angina,135.0,261.0,0.0,ST-T Wave Abnormality,158.0,No,0.3,Flat,0
+66.0,Male,Non-Anginal Pain,100.0,178.0,0.0,Normal,143.0,Yes,1.0,Up,0
+62.0,Male,Atypical Angina,112.0,266.0,0.0,Normal,168.0,Yes,2.3,Flat,1
+61.0,Male,Asymptomatic,127.0,120.0,0.0,Normal,133.0,No,,Up,1
+61.0,Male,Typical Angina,131.0,211.0,0.0,Left Ventricular Hypertrophy,117.0,No,1.1,Up,1
+54.0,Male,Asymptomatic,109.0,218.0,0.0,Normal,154.0,No,1.8,Up,0
+46.0,Female,Atypical Angina,173.0,268.0,0.0,Left Ventricular Hypertrophy,147.0,No,0.7,Up,0
+55.0,Male,Atypical Angina,157.0,241.0,0.0,Left Ventricular Hypertrophy,168.0,Yes,0.2,Up,0
+48.0,Male,Typical Angina,140.0,176.0,0.0,Normal,145.0,No,0.7,Flat,0
+64.0,Male,Typical Angina,131.0,195.0,0.0,Left Ventricular Hypertrophy,141.0,No,0.8,Up,0
+53.0,Male,Non-Anginal Pain,126.0,248.0,,Normal,158.0,Yes,1.4,Flat,1
+46.0,Female,Atypical Angina,112.0,236.0,1.0,Left Ventricular Hypertrophy,165.0,No,0.2,Up,0
+51.0,Male,Asymptomatic,131.0,213.0,0.0,Normal,154.0,Yes,0.5,Up,1
+59.0,Female,Typical Angina,134.0,218.0,0.0,Normal,135.0,No,0.5,Flat,0
+49.0,Male,,107.0,271.0,0.0,Normal,,No,3.2,Flat,1
+46.0,Female,Atypical Angina,136.0,216.0,0.0,Normal,159.0,No,0.6,Down,0
+57.0,Female,Typical Angina,127.0,236.0,0.0,Left Ventricular Hypertrophy,143.0,No,1.4,Down,1
+57.0,Male,Typical Angina,95.0,337.0,0.0,Normal,159.0,No,1.4,Up,0
+49.0,Female,Atypical Angina,114.0,175.0,1.0,ST-T Wave Abnormality,124.0,Yes,0.3,Up,0
+50.0,Male,,122.0,156.0,0.0,Normal,162.0,No,0.8,Flat,0
+57.0,Female,,163.0,275.0,0.0,Left Ventricular Hypertrophy,153.0,,2.2,Down,1
+40.0,Male,Non-Anginal Pain,140.0,209.0,0.0,Normal,174.0,No,0.6,Flat,0
+40.0,Female,,,225.0,0.0,Normal,133.0,No,2.9,,1
+47.0,Female,Typical Angina,138.0,204.0,0.0,Normal,144.0,No,0.2,Flat,0
+52.0,Female,Non-Anginal Pain,102.0,228.0,0.0,Left Ventricular Hypertrophy,162.0,Yes,0.1,Up,0
+58.0,Female,Asymptomatic,149.0,311.0,0.0,Normal,125.0,No,2.2,Flat,1
+69.0,Male,Non-Anginal Pain,121.0,276.0,0.0,Normal,127.0,No,1.9,Flat,1
+63.0,Male,Asymptomatic,128.0,278.0,0.0,Normal,133.0,Yes,4.9,Flat,1
+53.0,Male,Atypical Angina,153.0,176.0,0.0,Left Ventricular Hypertrophy,152.0,No,1.1,Up,0
+54.0,Male,Asymptomatic,106.0,188.0,0.0,Normal,157.0,Yes,2.8,Up,1
+44.0,Female,Asymptomatic,104.0,120.0,0.0,ST-T Wave Abnormality,,No,1.8,Up,0
+54.0,Male,Non-Anginal Pain,119.0,203.0,0.0,Normal,154.0,Yes,1.9,Up,1
+52.0,Female,Asymptomatic,148.0,283.0,0.0,Left Ventricular Hypertrophy,120.0,No,0.8,Down,1
+58.0,Female,Typical Angina,102.0,263.0,0.0,Left Ventricular Hypertrophy,,Yes,0.5,Up,0
+46.0,Female,Typical Angina,90.0,230.0,0.0,Normal,130.0,Yes,2.7,Up,1
+60.0,Male,Asymptomatic,121.0,238.0,0.0,Normal,141.0,No,0.6,Up,0
+70.0,Female,Asymptomatic,139.0,209.0,0.0,Normal,125.0,Yes,0.8,Flat,1
+,Female,Typical Angina,151.0,249.0,0.0,Normal,134.0,No,0.6,Flat,1
+59.0,Male,Atypical Angina,121.0,274.0,0.0,Normal,150.0,Yes,0.8,Up,1
+61.0,Female,Typical Angina,122.0,167.0,0.0,ST-T Wave Abnormality,126.0,No,0.6,Up,0
+50.0,Female,Atypical Angina,150.0,253.0,1.0,Normal,190.0,No,0.0,Up,0
+57.0,Male,Asymptomatic,96.0,281.0,0.0,Left Ventricular Hypertrophy,153.0,Yes,2.1,Flat,1
+55.0,Male,Non-Anginal Pain,123.0,221.0,0.0,Normal,158.0,Yes,0.6,Up,0
+55.0,Male,Atypical Angina,133.0,271.0,0.0,ST-T Wave Abnormality,163.0,No,0.9,Down,1
+47.0,Male,Atypical Angina,138.0,366.0,0.0,Normal,156.0,No,0.1,Flat,1
+,Male,Typical Angina,120.0,235.0,1.0,Normal,139.0,No,0.0,Up,0
+59.0,Male,Atypical Angina,130.0,257.0,0.0,Normal,130.0,No,0.3,Flat,1
+69.0,Male,Non-Anginal Pain,90.0,206.0,0.0,Normal,127.0,No,1.2,Up,0
+64.0,Male,Asymptomatic,118.0,248.0,0.0,Normal,145.0,Yes,0.1,Flat,1
+76.0,Female,Asymptomatic,138.0,260.0,0.0,Left Ventricular Hypertrophy,118.0,Yes,2.4,Up,1
+47.0,Male,Typical Angina,112.0,248.0,1.0,Left Ventricular Hypertrophy,,Yes,0.2,Flat,1
+63.0,Female,Asymptomatic,131.0,194.0,1.0,Normal,122.0,Yes,0.2,Flat,1
+56.0,Male,Asymptomatic,138.0,249.0,0.0,Normal,132.0,Yes,0.2,Down,1
+76.0,Male,Asymptomatic,123.0,305.0,0.0,Normal,123.0,No,0.0,Up,1
+46.0,Male,Non-Anginal Pain,133.0,260.0,0.0,Normal,167.0,No,1.5,Up,0
+46.0,Male,Atypical Angina,112.0,283.0,0.0,Normal,163.0,No,2.1,Flat,1
+49.0,Male,Atypical Angina,126.0,229.0,0.0,Left Ventricular Hypertrophy,159.0,Yes,1.0,Down,1
+33.0,Female,Typical Angina,140.0,273.0,0.0,Left Ventricular Hypertrophy,171.0,No,0.2,Down,0
+49.0,Male,Atypical Angina,132.0,252.0,0.0,Left Ventricular Hypertrophy,,No,0.3,Up,0
+47.0,Female,Atypical Angina,119.0,197.0,0.0,Normal,142.0,No,0.6,Up,0
+56.0,Female,Non-Anginal Pain,134.0,254.0,0.0,Left Ventricular Hypertrophy,144.0,Yes,3.1,Flat,1
+58.0,Male,Asymptomatic,142.0,195.0,0.0,Left Ventricular Hypertrophy,141.0,Yes,0.3,Up,1
+73.0,Male,Non-Anginal Pain,93.0,211.0,0.0,Normal,124.0,Yes,1.3,Up,1
+64.0,Female,Typical Angina,150.0,248.0,0.0,Normal,143.0,Yes,0.6,Up,0
+49.0,Male,Asymptomatic,123.0,253.0,0.0,Left Ventricular Hypertrophy,164.0,No,0.4,Flat,1
+46.0,Male,Asymptomatic,137.0,186.0,0.0,Normal,180.0,Yes,0.6,Down,1
+59.0,Female,Asymptomatic,151.0,287.0,,Normal,151.0,Yes,,Down,1
+41.0,Male,Asymptomatic,105.0,265.0,0.0,Normal,151.0,No,1.6,Up,0
+73.0,Female,Non-Anginal Pain,117.0,208.0,0.0,ST-T Wave Abnormality,137.0,No,0.3,Flat,0
+66.0,Female,Asymptomatic,124.0,170.0,0.0,Normal,137.0,No,1.3,Flat,1
+50.0,Male,Typical Angina,115.0,233.0,0.0,Left Ventricular Hypertrophy,143.0,No,0.1,Up,0
+37.0,Male,Atypical Angina,161.0,219.0,1.0,ST-T Wave Abnormality,155.0,No,3.1,Flat,1
+68.0,Male,Atypical Angina,114.0,245.0,0.0,ST-T Wave Abnormality,148.0,Yes,0.2,Up,0
+53.0,Male,Typical Angina,120.0,223.0,1.0,Normal,132.0,No,2.1,Up,1
+67.0,Male,Typical Angina,133.0,149.0,0.0,ST-T Wave Abnormality,116.0,No,1.7,Up,1
+39.0,Female,Non-Anginal Pain,108.0,222.0,0.0,Normal,177.0,No,3.4,Up,0
+,Male,Asymptomatic,122.0,226.0,0.0,Normal,163.0,Yes,0.6,Flat,0
+55.0,Male,Non-Anginal Pain,135.0,268.0,0.0,Normal,127.0,No,1.3,Up,0
+55.0,Female,,124.0,,0.0,Normal,147.0,Yes,0.5,Up,0
+50.0,Female,Asymptomatic,128.0,315.0,0.0,ST-T Wave Abnormality,183.0,No,0.2,Up,0
+61.0,,Non-Anginal Pain,120.0,153.0,0.0,Normal,159.0,Yes,0.6,Flat,0
+44.0,Male,Atypical Angina,102.0,299.0,1.0,Normal,159.0,Yes,0.2,Flat,0
+53.0,Female,Asymptomatic,135.0,229.0,0.0,Normal,164.0,No,4.0,Flat,1
+56.0,Male,Atypical Angina,161.0,278.0,0.0,Left Ventricular Hypertrophy,150.0,No,0.1,Flat,0
+60.0,Male,Atypical Angina,130.0,243.0,0.0,ST-T Wave Abnormality,139.0,No,0.9,Up,0
+62.0,Male,Asymptomatic,134.0,291.0,0.0,ST-T Wave Abnormality,116.0,Yes,1.0,Up,1
+,Female,Atypical Angina,142.0,222.0,0.0,Normal,161.0,Yes,0.8,Flat,0
+39.0,Male,Non-Anginal Pain,107.0,190.0,0.0,Normal,144.0,No,1.1,Up,0
+67.0,Male,Asymptomatic,160.0,303.0,0.0,Left Ventricular Hypertrophy,111.0,No,0.1,,1
+58.0,Male,Asymptomatic,133.0,234.0,0.0,Normal,120.0,No,0.8,Flat,1
+47.0,Male,Typical Angina,159.0,249.0,0.0,Normal,148.0,No,0.3,Up,0
+70.0,Female,Typical Angina,116.0,295.0,0.0,ST-T Wave Abnormality,159.0,No,2.8,Up,1
+56.0,Female,Typical Angina,162.0,193.0,0.0,Normal,137.0,No,1.4,Flat,1
+66.0,Female,Non-Anginal Pain,143.0,266.0,0.0,Left Ventricular Hypertrophy,118.0,No,3.6,Up,1
+55.0,Male,Atypical Angina,139.0,213.0,0.0,Normal,146.0,No,0.0,Flat,0
+75.0,Male,Typical Angina,134.0,234.0,0.0,Normal,98.0,Yes,0.3,Flat,1
+72.0,Male,Asymptomatic,125.0,243.0,1.0,Normal,115.0,No,0.2,Flat,1
+52.0,Male,Non-Anginal Pain,151.0,172.0,0.0,Normal,139.0,No,,Flat,0
+64.0,Male,Atypical Angina,132.0,204.0,0.0,Left Ventricular Hypertrophy,119.0,No,0.3,Up,0
+,,Non-Anginal Pain,94.0,300.0,0.0,ST-T Wave Abnormality,133.0,No,1.1,Up,0
+68.0,Male,Asymptomatic,109.0,279.0,0.0,Normal,169.0,Yes,0.3,Up,0
+45.0,Male,Typical Angina,126.0,237.0,0.0,Normal,162.0,No,0.7,Up,0
+61.0,Male,Atypical Angina,135.0,250.0,0.0,ST-T Wave Abnormality,121.0,No,2.2,Down,1
+65.0,Male,Asymptomatic,128.0,226.0,1.0,ST-T Wave Abnormality,147.0,Yes,1.2,Flat,1
+37.0,Male,Non-Anginal Pain,151.0,301.0,0.0,Normal,166.0,Yes,0.5,Up,0
+43.0,,Non-Anginal Pain,94.0,230.0,0.0,Normal,172.0,Yes,0.5,Up,0
+34.0,Female,Atypical Angina,132.0,250.0,0.0,Normal,,No,0.6,Up,0
+52.0,Female,Typical Angina,97.0,291.0,0.0,ST-T Wave Abnormality,122.0,No,0.2,Up,0
+,Male,Typical Angina,143.0,205.0,0.0,Left Ventricular Hypertrophy,151.0,No,1.0,Up,1
+70.0,Male,Atypical Angina,128.0,310.0,0.0,Normal,127.0,Yes,0.5,Flat,1
+55.0,Male,Atypical Angina,137.0,171.0,0.0,ST-T Wave Abnormality,155.0,No,1.9,Flat,1
+71.0,Male,Typical Angina,114.0,313.0,1.0,Normal,119.0,Yes,1.4,Flat,1
+41.0,,Asymptomatic,153.0,223.0,0.0,Normal,151.0,Yes,0.9,Up,0
+37.0,Male,Asymptomatic,148.0,229.0,0.0,Normal,150.0,No,0.5,Up,0
+54.0,Male,Asymptomatic,140.0,154.0,0.0,Left Ventricular Hypertrophy,141.0,No,0.2,Flat,1
+58.0,Male,Asymptomatic,127.0,219.0,0.0,Normal,97.0,Yes,1.5,Flat,1
+54.0,Male,Atypical Angina,140.0,193.0,0.0,,161.0,Yes,0.7,Flat,1
+34.0,Female,Asymptomatic,117.0,212.0,0.0,Normal,191.0,Yes,0.3,Down,0
+54.0,Male,Typical Angina,145.0,233.0,0.0,Normal,151.0,No,0.2,Flat,0
+41.0,Male,Asymptomatic,159.0,283.0,0.0,Normal,,No,0.2,Flat,1
+61.0,Male,Asymptomatic,149.0,249.0,0.0,Left Ventricular Hypertrophy,161.0,No,1.5,Up,1
+58.0,Male,Asymptomatic,116.0,253.0,0.0,Normal,157.0,No,0.3,Flat,1
+45.0,Female,,136.0,190.0,0.0,ST-T Wave Abnormality,168.0,No,0.7,Up,0
+49.0,Female,Non-Anginal Pain,106.0,200.0,0.0,Normal,165.0,Yes,0.6,Up,0
+44.0,Female,Atypical Angina,140.0,320.0,0.0,Normal,148.0,No,0.9,Flat,0
+54.0,Female,Atypical Angina,138.0,206.0,,Normal,153.0,No,2.1,Up,0
+64.0,Male,Non-Anginal Pain,96.0,314.0,0.0,Normal,138.0,Yes,2.0,Up,1
+45.0,Female,Typical Angina,109.0,229.0,0.0,Normal,141.0,Yes,0.6,Up,0
+60.0,Male,Non-Anginal Pain,124.0,240.0,0.0,Normal,,Yes,0.0,Up,0
+49.0,Male,Asymptomatic,124.0,288.0,0.0,ST-T Wave Abnormality,154.0,Yes,0.6,Up,1
+47.0,Female,Typical Angina,108.0,297.0,0.0,ST-T Wave Abnormality,147.0,No,0.9,Up,0
+53.0,Male,Asymptomatic,137.0,235.0,1.0,Normal,176.0,No,0.8,Up,1
+44.0,Female,Asymptomatic,134.0,222.0,0.0,Normal,191.0,No,1.1,Up,0
+49.0,Male,Asymptomatic,126.0,237.0,0.0,Normal,145.0,No,0.2,Down,1
+43.0,Female,Asymptomatic,116.0,255.0,0.0,Normal,149.0,No,1.0,Up,0
+74.0,Female,Non-Anginal Pain,148.0,280.0,0.0,Normal,95.0,No,0.2,Up,0
+55.0,Female,Asymptomatic,159.0,,0.0,Left Ventricular Hypertrophy,142.0,Yes,,Flat,1
+48.0,Female,Asymptomatic,121.0,267.0,0.0,Normal,139.0,Yes,0.4,Flat,1
+57.0,,Typical Angina,118.0,313.0,0.0,Normal,145.0,No,1.2,Flat,1
+53.0,Male,Non-Anginal Pain,138.0,257.0,0.0,Normal,142.0,Yes,0.0,Up,0
+52.0,Male,Asymptomatic,123.0,254.0,0.0,Normal,122.0,Yes,0.5,Flat,1
+61.0,Male,Atypical Angina,127.0,171.0,0.0,ST-T Wave Abnormality,170.0,No,1.2,Flat,1
+62.0,Female,Non-Anginal Pain,143.0,121.0,0.0,Normal,131.0,No,0.3,Flat,0
+49.0,Male,Asymptomatic,95.0,257.0,1.0,Normal,118.0,Yes,1.6,Flat,1
+49.0,Female,Typical Angina,153.0,235.0,0.0,ST-T Wave Abnormality,146.0,No,1.0,Flat,1
+52.0,Male,Non-Anginal Pain,131.0,216.0,0.0,Normal,123.0,No,0.9,Flat,1
+31.0,Male,Asymptomatic,122.0,250.0,0.0,Left Ventricular Hypertrophy,178.0,Yes,0.4,Flat,1
+,Female,Non-Anginal Pain,128.0,237.0,0.0,ST-T Wave Abnormality,161.0,Yes,0.7,Up,0
+68.0,Male,Typical Angina,129.0,290.0,0.0,Normal,131.0,,0.9,Flat,1
+71.0,Male,Typical Angina,98.0,243.0,0.0,ST-T Wave Abnormality,162.0,Yes,0.6,Flat,1
+52.0,Male,Atypical Angina,156.0,206.0,0.0,Normal,165.0,Yes,1.2,Up,0
+60.0,Female,Asymptomatic,130.0,284.0,0.0,Normal,156.0,No,0.6,Down,1
+58.0,,Atypical Angina,137.0,230.0,0.0,Normal,129.0,No,0.2,Up,0
+85.0,Male,Non-Anginal Pain,147.0,263.0,0.0,Normal,101.0,Yes,0.2,Flat,1
+66.0,Male,Atypical Angina,111.0,218.0,0.0,ST-T Wave Abnormality,129.0,Yes,0.0,Flat,1
+53.0,Male,Atypical Angina,138.0,210.0,0.0,Left Ventricular Hypertrophy,134.0,Yes,0.4,Up,1
+45.0,Female,Asymptomatic,125.0,243.0,0.0,Left Ventricular Hypertrophy,,No,1.4,Flat,0
+38.0,Female,Asymptomatic,145.0,240.0,0.0,ST-T Wave Abnormality,143.0,Yes,1.6,Up,1
+57.0,Male,Typical Angina,91.0,261.0,1.0,Normal,142.0,No,0.2,Up,0
+47.0,Male,Atypical Angina,128.0,227.0,,Normal,152.0,No,3.2,Up,1
+40.0,Male,Typical Angina,119.0,157.0,0.0,Normal,163.0,Yes,0.7,Up,0
+48.0,Female,Non-Anginal Pain,137.0,220.0,0.0,Normal,,No,2.5,Up,0
+44.0,Female,Asymptomatic,138.0,275.0,1.0,Normal,162.0,,1.2,,1
+71.0,Male,Typical Angina,117.0,226.0,0.0,Left Ventricular Hypertrophy,114.0,No,1.3,Down,1
+63.0,Male,Atypical Angina,117.0,228.0,1.0,Normal,153.0,Yes,0.1,Up,0
+54.0,Male,Atypical Angina,128.0,284.0,0.0,Normal,162.0,No,0.2,Flat,0
+69.0,Female,Asymptomatic,113.0,207.0,0.0,Normal,120.0,No,0.0,Up,0
+55.0,Male,Asymptomatic,145.0,170.0,0.0,Left Ventricular Hypertrophy,146.0,No,1.3,Up,1
+46.0,Female,Typical Angina,123.0,232.0,0.0,ST-T Wave Abnormality,160.0,Yes,0.4,Up,0
+70.0,Female,Asymptomatic,90.0,218.0,1.0,ST-T Wave Abnormality,116.0,No,1.5,Down,1
+60.0,Male,Atypical Angina,123.0,196.0,0.0,Normal,,Yes,0.4,Down,1
+44.0,Male,Atypical Angina,,232.0,0.0,Left Ventricular Hypertrophy,159.0,Yes,1.7,Up,0
+53.0,,Asymptomatic,100.0,262.0,0.0,Normal,126.0,No,0.1,Up,0
+46.0,Female,Asymptomatic,,239.0,0.0,Left Ventricular Hypertrophy,130.0,No,0.2,Up,0
+41.0,Female,Asymptomatic,131.0,253.0,0.0,,135.0,No,0.4,Flat,1
+64.0,,Non-Anginal Pain,153.0,321.0,0.0,Normal,140.0,No,0.5,Flat,0
+74.0,Male,Atypical Angina,135.0,224.0,0.0,Normal,107.0,No,,Up,0
+41.0,Male,Asymptomatic,119.0,252.0,0.0,ST-T Wave Abnormality,173.0,No,1.4,Flat,1
+60.0,Female,Atypical Angina,138.0,217.0,0.0,Normal,153.0,No,0.1,Up,0
+48.0,Female,Non-Anginal Pain,121.0,201.0,1.0,Left Ventricular Hypertrophy,187.0,No,0.4,Down,0
+50.0,Male,Atypical Angina,117.0,213.0,0.0,Normal,124.0,No,1.8,Flat,0
+49.0,Female,Asymptomatic,109.0,218.0,0.0,Normal,163.0,No,0.1,Up,0
+46.0,Female,Atypical Angina,98.0,256.0,0.0,Normal,155.0,No,2.9,Flat,0
+55.0,Male,Typical Angina,122.0,345.0,0.0,Normal,158.0,No,4.3,Flat,1
+46.0,Female,Asymptomatic,132.0,207.0,0.0,Normal,143.0,No,0.1,Up,0
+57.0,Female,Typical Angina,128.0,221.0,0.0,Normal,148.0,Yes,0.3,Up,0
+54.0,Female,Non-Anginal Pain,122.0,237.0,1.0,ST-T Wave Abnormality,165.0,Yes,0.5,Down,1
+52.0,Male,Atypical Angina,,257.0,0.0,Normal,141.0,No,1.5,Up,0
+45.0,Male,Typical Angina,140.0,251.0,1.0,Left Ventricular Hypertrophy,176.0,Yes,0.9,Up,1
+,Female,Typical Angina,106.0,297.0,0.0,ST-T Wave Abnormality,163.0,Yes,1.0,Flat,1
+62.0,Male,Typical Angina,143.0,130.0,0.0,Left Ventricular Hypertrophy,169.0,No,1.4,Flat,1
+60.0,Male,Asymptomatic,111.0,132.0,0.0,Normal,161.0,Yes,0.1,Flat,1
+45.0,Male,Atypical Angina,116.0,217.0,0.0,Normal,152.0,Yes,1.8,Down,1
+55.0,Male,Asymptomatic,103.0,289.0,0.0,Normal,174.0,No,1.2,Flat,1
+62.0,Female,Non-Anginal Pain,120.0,169.0,0.0,ST-T Wave Abnormality,,No,0.9,Up,0
+38.0,Female,Atypical Angina,147.0,120.0,0.0,Left Ventricular Hypertrophy,162.0,No,2.2,Flat,0
+60.0,Male,Non-Anginal Pain,139.0,265.0,0.0,Normal,148.0,No,1.2,Flat,1
+48.0,Male,Non-Anginal Pain,147.0,250.0,0.0,Normal,122.0,No,0.2,Up,0
+60.0,Male,Asymptomatic,139.0,190.0,1.0,Left Ventricular Hypertrophy,112.0,No,0.6,Up,1
+47.0,Female,Atypical Angina,110.0,195.0,0.0,Normal,166.0,No,0.7,Up,0
+36.0,Female,Atypical Angina,124.0,196.0,,ST-T Wave Abnormality,155.0,Yes,0.1,Flat,0
+38.0,Male,Asymptomatic,115.0,244.0,0.0,Normal,150.0,Yes,3.1,Flat,1
+55.0,Female,Asymptomatic,153.0,211.0,0.0,Left Ventricular Hypertrophy,153.0,No,0.1,Flat,0
+57.0,Female,Asymptomatic,108.0,262.0,0.0,Normal,165.0,No,1.2,Down,1
+45.0,Female,Atypical Angina,146.0,120.0,1.0,Normal,155.0,No,0.7,Up,0
+61.0,Female,Asymptomatic,146.0,201.0,0.0,ST-T Wave Abnormality,141.0,No,0.0,Down,1
+38.0,Male,Non-Anginal Pain,162.0,189.0,0.0,Left Ventricular Hypertrophy,168.0,No,2.6,Flat,1
+54.0,Female,Non-Anginal Pain,122.0,228.0,0.0,Normal,139.0,No,1.9,Up,0
+42.0,Male,Atypical Angina,142.0,215.0,0.0,Normal,169.0,No,0.7,Down,0
+48.0,Female,Non-Anginal Pain,171.0,275.0,0.0,ST-T Wave Abnormality,169.0,Yes,0.3,Up,0
+55.0,Female,Typical Angina,118.0,156.0,0.0,Left Ventricular Hypertrophy,143.0,No,0.1,Flat,0
+46.0,Female,Atypical Angina,102.0,242.0,0.0,Left Ventricular Hypertrophy,148.0,Yes,0.5,Flat,0
+51.0,Female,Asymptomatic,96.0,265.0,0.0,Left Ventricular Hypertrophy,166.0,No,0.3,Flat,0
+65.0,Male,Atypical Angina,142.0,323.0,0.0,Normal,121.0,No,0.7,Flat,1
+49.0,Male,Typical Angina,96.0,218.0,0.0,Normal,177.0,No,3.4,Up,0
+63.0,Female,Typical Angina,123.0,254.0,0.0,ST-T Wave Abnormality,145.0,No,0.9,Flat,1
+43.0,Female,Asymptomatic,137.0,158.0,1.0,Left Ventricular Hypertrophy,160.0,No,2.2,Up,1
+60.0,Male,Non-Anginal Pain,133.0,132.0,0.0,Normal,149.0,No,1.1,Flat,0
+,Male,Atypical Angina,137.0,278.0,1.0,,139.0,No,0.6,Flat,1
+30.0,Male,Asymptomatic,134.0,239.0,0.0,Left Ventricular Hypertrophy,141.0,No,1.9,Down,1
+47.0,Female,Asymptomatic,153.0,293.0,0.0,Normal,165.0,No,0.6,Up,0
+60.0,Female,Atypical Angina,112.0,,0.0,Normal,103.0,No,2.0,Flat,1
+52.0,Male,Asymptomatic,117.0,263.0,1.0,Normal,141.0,Yes,0.3,Down,1
+58.0,,Asymptomatic,116.0,324.0,0.0,ST-T Wave Abnormality,140.0,No,0.1,Flat,1
+48.0,Female,Asymptomatic,144.0,258.0,1.0,Left Ventricular Hypertrophy,144.0,No,1.9,Up,1
+55.0,Female,Typical Angina,146.0,252.0,1.0,Normal,107.0,No,0.9,Up,1
+53.0,Male,Asymptomatic,138.0,240.0,0.0,ST-T Wave Abnormality,161.0,No,2.2,Up,1
+66.0,Male,Non-Anginal Pain,151.0,169.0,0.0,ST-T Wave Abnormality,150.0,,2.8,,1
+57.0,Male,Atypical Angina,108.0,301.0,0.0,Normal,154.0,No,0.1,Flat,0
+58.0,Male,Atypical Angina,160.0,212.0,0.0,ST-T Wave Abnormality,141.0,No,0.7,Down,1
+50.0,Male,Typical Angina,157.0,262.0,0.0,Normal,175.0,No,0.5,Up,0
+50.0,Female,Typical Angina,143.0,169.0,1.0,Normal,149.0,Yes,1.0,Up,1
+50.0,Female,Asymptomatic,162.0,186.0,0.0,Normal,124.0,No,1.6,Flat,1
+58.0,Female,Typical Angina,100.0,304.0,0.0,Normal,139.0,Yes,0.3,Flat,1
+50.0,Female,Atypical Angina,120.0,224.0,0.0,Normal,154.0,Yes,0.8,Down,1
+57.0,Male,Non-Anginal Pain,116.0,305.0,0.0,Left Ventricular Hypertrophy,152.0,No,,Flat,1
+75.0,Male,Typical Angina,142.0,236.0,0.0,Left Ventricular Hypertrophy,111.0,Yes,,Up,1
+63.0,Male,Asymptomatic,111.0,157.0,0.0,Left Ventricular Hypertrophy,149.0,No,1.7,,1
+51.0,Male,Atypical Angina,143.0,280.0,0.0,Normal,121.0,No,0.9,Flat,1
+67.0,Female,Atypical Angina,154.0,213.0,0.0,Normal,103.0,No,3.0,Flat,1
+50.0,Female,Atypical Angina,142.0,271.0,0.0,Normal,146.0,No,,Up,0
+34.0,Male,Atypical Angina,135.0,241.0,0.0,Normal,166.0,Yes,0.1,Up,0
+44.0,Male,Typical Angina,112.0,170.0,0.0,Normal,140.0,No,0.7,Up,0
+36.0,Female,Asymptomatic,114.0,247.0,0.0,ST-T Wave Abnormality,147.0,Yes,0.1,Flat,1
+51.0,Male,Asymptomatic,152.0,338.0,0.0,Left Ventricular Hypertrophy,161.0,,3.5,Up,1
+55.0,Male,Atypical Angina,,262.0,1.0,Normal,152.0,No,0.0,Up,0
+71.0,Female,Asymptomatic,129.0,237.0,0.0,Normal,148.0,No,,Up,1
+58.0,Female,Asymptomatic,122.0,288.0,1.0,Left Ventricular Hypertrophy,135.0,No,,Flat,1
+52.0,Male,Asymptomatic,93.0,249.0,0.0,Normal,138.0,No,0.5,Up,0
+63.0,Male,Atypical Angina,110.0,249.0,0.0,Left Ventricular Hypertrophy,157.0,No,,Flat,1
+32.0,Female,Atypical Angina,164.0,190.0,0.0,Left Ventricular Hypertrophy,174.0,No,1.0,Up,0
+57.0,Male,Atypical Angina,106.0,250.0,0.0,Left Ventricular Hypertrophy,163.0,Yes,0.9,Up,1
+62.0,Male,Asymptomatic,133.0,286.0,0.0,Normal,151.0,No,0.3,Flat,1
+40.0,Female,Asymptomatic,148.0,202.0,0.0,ST-T Wave Abnormality,151.0,No,2.4,Up,1
+66.0,Male,Typical Angina,107.0,304.0,1.0,,145.0,No,0.4,,0
+58.0,Female,Atypical Angina,,235.0,1.0,ST-T Wave Abnormality,146.0,Yes,0.6,Up,0
+50.0,Male,Asymptomatic,146.0,200.0,0.0,Normal,,No,0.8,Flat,1
+61.0,Female,Asymptomatic,130.0,284.0,0.0,Normal,136.0,Yes,0.1,Flat,1
+77.0,Male,Asymptomatic,181.0,227.0,0.0,Normal,123.0,Yes,2.7,Up,1
+56.0,Male,Asymptomatic,99.0,274.0,0.0,Normal,154.0,No,0.5,Up,0
+57.0,Male,Atypical Angina,149.0,226.0,0.0,Left Ventricular Hypertrophy,145.0,No,0.1,Down,1
+50.0,Male,Non-Anginal Pain,126.0,237.0,0.0,Left Ventricular Hypertrophy,147.0,No,0.5,Flat,0
+46.0,Female,Asymptomatic,143.0,262.0,0.0,ST-T Wave Abnormality,166.0,No,0.9,Up,0
+63.0,,Typical Angina,137.0,253.0,0.0,Normal,159.0,No,0.7,Flat,0
+46.0,Male,Non-Anginal Pain,116.0,150.0,0.0,Left Ventricular Hypertrophy,126.0,Yes,1.2,Flat,1
+55.0,Male,Asymptomatic,134.0,189.0,0.0,Normal,154.0,No,0.1,Flat,1
+50.0,Female,Typical Angina,96.0,281.0,1.0,Left Ventricular Hypertrophy,151.0,Yes,0.3,Flat,0
+59.0,Female,Asymptomatic,140.0,234.0,0.0,Left Ventricular Hypertrophy,125.0,No,1.7,Up,1
+,Male,Non-Anginal Pain,135.0,216.0,0.0,Normal,89.0,Yes,0.1,Up,1
+65.0,Male,Asymptomatic,141.0,178.0,1.0,Left Ventricular Hypertrophy,153.0,Yes,1.9,Down,1
+49.0,Male,Typical Angina,149.0,191.0,0.0,Normal,144.0,No,0.1,Flat,0
+52.0,Female,Atypical Angina,136.0,149.0,0.0,Normal,158.0,Yes,1.8,Up,0
+45.0,Male,Non-Anginal Pain,132.0,235.0,0.0,Normal,163.0,Yes,0.4,Down,1
+50.0,Female,Atypical Angina,114.0,213.0,0.0,Normal,160.0,No,0.9,Down,0
+58.0,Male,Asymptomatic,117.0,196.0,1.0,Left Ventricular Hypertrophy,158.0,Yes,0.2,Down,1
+62.0,Female,Asymptomatic,151.0,236.0,,Normal,138.0,Yes,0.1,Flat,1
+45.0,Male,Typical Angina,155.0,256.0,0.0,Normal,177.0,No,0.2,Down,0
+63.0,Male,,125.0,334.0,0.0,ST-T Wave Abnormality,122.0,No,0.1,Up,0
+68.0,,Non-Anginal Pain,130.0,171.0,1.0,Left Ventricular Hypertrophy,131.0,No,0.4,Flat,1
+59.0,Female,Atypical Angina,113.0,292.0,0.0,Left Ventricular Hypertrophy,134.0,No,0.7,Flat,0
+73.0,Male,Asymptomatic,151.0,283.0,0.0,Left Ventricular Hypertrophy,133.0,No,0.9,Up,1
+47.0,Male,Asymptomatic,141.0,204.0,0.0,ST-T Wave Abnormality,158.0,No,1.6,Up,1
+42.0,Male,Asymptomatic,164.0,249.0,,Normal,153.0,No,1.1,Down,1
+37.0,Male,Asymptomatic,114.0,219.0,0.0,Normal,180.0,Yes,0.9,Up,0
+69.0,Female,Non-Anginal Pain,123.0,248.0,0.0,Normal,136.0,No,0.5,Flat,0
+61.0,Female,Asymptomatic,134.0,307.0,,Normal,151.0,No,0.6,Up,0
+,Female,Asymptomatic,141.0,267.0,0.0,ST-T Wave Abnormality,159.0,No,0.5,Up,1
+,Male,Asymptomatic,126.0,262.0,0.0,Normal,174.0,Yes,1.8,Flat,1
+43.0,Female,Asymptomatic,114.0,220.0,0.0,Left Ventricular Hypertrophy,136.0,,0.3,Up,0
+79.0,Male,Atypical Angina,145.0,173.0,0.0,Normal,131.0,,0.0,Flat,1
+56.0,Male,Asymptomatic,142.0,230.0,0.0,Normal,126.0,Yes,1.1,Flat,1
+56.0,Male,Typical Angina,113.0,294.0,0.0,Normal,127.0,No,0.2,Up,0
+62.0,Male,Atypical Angina,154.0,171.0,1.0,Left Ventricular Hypertrophy,157.0,No,2.2,Up,1
+59.0,Female,Atypical Angina,151.0,192.0,1.0,Left Ventricular Hypertrophy,157.0,No,2.0,Up,1
+57.0,Female,Asymptomatic,132.0,245.0,0.0,Left Ventricular Hypertrophy,104.0,Yes,0.1,Up,1
+47.0,Female,Asymptomatic,131.0,195.0,1.0,Normal,126.0,No,0.1,Flat,1
+59.0,Male,Asymptomatic,139.0,204.0,0.0,Left Ventricular Hypertrophy,141.0,,0.7,Up,1
+73.0,Male,Asymptomatic,114.0,220.0,0.0,Normal,123.0,No,0.9,Up,1
+68.0,Male,Non-Anginal Pain,130.0,178.0,0.0,Normal,141.0,Yes,0.3,Flat,1
+70.0,Male,Asymptomatic,91.0,196.0,0.0,Left Ventricular Hypertrophy,123.0,Yes,1.3,Up,1
+49.0,Male,Non-Anginal Pain,145.0,271.0,0.0,Normal,161.0,No,0.9,Up,0
+45.0,Male,Atypical Angina,101.0,181.0,0.0,ST-T Wave Abnormality,185.0,Yes,0.4,Up,0
+53.0,Male,Typical Angina,157.0,168.0,0.0,Normal,166.0,No,0.0,Flat,0
+55.0,Male,Asymptomatic,124.0,211.0,0.0,ST-T Wave Abnormality,144.0,No,1.4,Down,1
+65.0,Female,Asymptomatic,126.0,272.0,1.0,Left Ventricular Hypertrophy,151.0,No,0.2,Flat,1
+38.0,Female,Atypical Angina,118.0,231.0,0.0,Normal,163.0,No,1.8,Up,0
+70.0,Female,Typical Angina,124.0,219.0,0.0,ST-T Wave Abnormality,,Yes,0.5,Up,0
+53.0,Female,Asymptomatic,,241.0,0.0,,158.0,Yes,0.9,Flat,1
+50.0,Male,,90.0,161.0,1.0,ST-T Wave Abnormality,137.0,Yes,2.1,Flat,1
+44.0,,Asymptomatic,152.0,262.0,0.0,Normal,152.0,Yes,2.0,Down,1
+38.0,Female,Asymptomatic,136.0,257.0,0.0,Normal,162.0,No,0.5,Up,0
+63.0,Male,Atypical Angina,108.0,221.0,0.0,Normal,123.0,Yes,0.2,Up,0
+55.0,Male,Atypical Angina,110.0,285.0,0.0,Normal,137.0,No,1.5,Flat,0
+42.0,Female,Asymptomatic,160.0,189.0,0.0,Left Ventricular Hypertrophy,136.0,No,0.6,Flat,1
+42.0,Male,Asymptomatic,112.0,290.0,0.0,Normal,164.0,No,0.2,,0
+51.0,Male,Non-Anginal Pain,109.0,246.0,0.0,Normal,155.0,Yes,2.3,Flat,1
+71.0,Male,Asymptomatic,150.0,224.0,0.0,Normal,,Yes,0.2,Down,1
+52.0,Male,Typical Angina,136.0,239.0,1.0,Normal,154.0,Yes,0.0,,1
+39.0,Male,Non-Anginal Pain,113.0,235.0,0.0,Left Ventricular Hypertrophy,146.0,No,0.0,Down,0
+52.0,Male,Asymptomatic,133.0,294.0,0.0,Left Ventricular Hypertrophy,128.0,,1.0,Down,1
+52.0,Male,Asymptomatic,,191.0,0.0,Normal,133.0,No,1.1,Flat,1
+30.0,Male,Typical Angina,149.0,205.0,0.0,Left Ventricular Hypertrophy,196.0,No,0.4,Up,0
+54.0,Female,Asymptomatic,,286.0,0.0,ST-T Wave Abnormality,129.0,No,0.4,Up,0
+52.0,Male,Non-Anginal Pain,139.0,213.0,0.0,Normal,175.0,,0.4,Flat,0
+61.0,Male,Atypical Angina,136.0,280.0,0.0,ST-T Wave Abnormality,125.0,Yes,1.1,Flat,1
+73.0,Male,Typical Angina,161.0,316.0,0.0,Normal,132.0,No,0.1,Flat,1
+66.0,Female,Asymptomatic,129.0,221.0,1.0,ST-T Wave Abnormality,123.0,No,2.6,Up,1
+52.0,Male,Typical Angina,108.0,270.0,1.0,Left Ventricular Hypertrophy,167.0,No,0.3,Up,0
+43.0,Male,Atypical Angina,138.0,188.0,0.0,Normal,139.0,No,6.2,Flat,1
+80.0,Female,Atypical Angina,167.0,273.0,0.0,Left Ventricular Hypertrophy,141.0,No,0.2,Up,1
+55.0,Female,Asymptomatic,111.0,248.0,0.0,,155.0,Yes,1.5,Up,1
+55.0,Male,Asymptomatic,123.0,261.0,0.0,Normal,159.0,,,Up,0
+54.0,Female,Asymptomatic,137.0,210.0,0.0,ST-T Wave Abnormality,172.0,Yes,0.1,Flat,1
+56.0,Male,Atypical Angina,129.0,165.0,0.0,Normal,,Yes,2.1,Up,1
+53.0,Male,Non-Anginal Pain,112.0,262.0,1.0,Left Ventricular Hypertrophy,119.0,Yes,2.0,Flat,1
+49.0,Male,Non-Anginal Pain,,147.0,1.0,ST-T Wave Abnormality,,No,0.5,Up,0
+49.0,Male,Asymptomatic,171.0,225.0,0.0,Normal,149.0,No,1.2,Down,1
+54.0,Female,Asymptomatic,133.0,282.0,0.0,Normal,129.0,No,0.8,Flat,1
+49.0,Male,Typical Angina,,248.0,0.0,ST-T Wave Abnormality,147.0,No,1.9,Up,0
+47.0,Male,Asymptomatic,102.0,,0.0,Normal,145.0,No,0.4,Up,0
+56.0,Female,Typical Angina,134.0,286.0,,Normal,149.0,Yes,0.7,Up,0
+52.0,Female,Non-Anginal Pain,149.0,210.0,1.0,Normal,145.0,Yes,0.7,Flat,1
+70.0,Male,Atypical Angina,138.0,241.0,0.0,Normal,121.0,No,0.4,Up,0
+30.0,Female,Atypical Angina,129.0,237.0,0.0,Normal,178.0,Yes,2.2,Up,0
+65.0,Male,Atypical Angina,119.0,168.0,0.0,Normal,136.0,Yes,0.2,Flat,1
+67.0,Female,Non-Anginal Pain,110.0,197.0,0.0,Normal,133.0,Yes,0.2,Up,0
+34.0,Female,,145.0,214.0,0.0,ST-T Wave Abnormality,153.0,Yes,0.9,Up,0
+51.0,Female,Asymptomatic,146.0,148.0,0.0,Normal,164.0,No,1.1,Flat,0
+51.0,Male,Atypical Angina,102.0,242.0,0.0,Normal,149.0,No,0.2,Down,0
+40.0,Male,Typical Angina,158.0,228.0,0.0,Normal,131.0,No,0.5,Up,0
+,Male,Asymptomatic,140.0,164.0,0.0,ST-T Wave Abnormality,135.0,No,2.9,,1
+43.0,Male,Atypical Angina,155.0,258.0,0.0,Normal,136.0,No,0.3,Down,1
+72.0,,Atypical Angina,105.0,272.0,1.0,Normal,127.0,Yes,1.1,Up,1
+64.0,Female,Asymptomatic,105.0,250.0,0.0,Normal,131.0,Yes,1.3,Down,1
+67.0,Male,Atypical Angina,127.0,225.0,0.0,Left Ventricular Hypertrophy,117.0,Yes,0.6,Up,1
+62.0,,Typical Angina,139.0,266.0,0.0,Left Ventricular Hypertrophy,114.0,No,2.8,Flat,1
+,Female,Atypical Angina,162.0,270.0,0.0,Left Ventricular Hypertrophy,186.0,No,1.3,Up,0
+49.0,Male,Asymptomatic,142.0,253.0,0.0,Left Ventricular Hypertrophy,170.0,No,0.6,Down,1
+59.0,Female,Non-Anginal Pain,125.0,202.0,0.0,ST-T Wave Abnormality,121.0,Yes,0.8,Up,0
+42.0,Male,,111.0,252.0,1.0,Normal,162.0,No,1.2,Flat,1
+62.0,Male,Non-Anginal Pain,152.0,293.0,0.0,ST-T Wave Abnormality,148.0,No,0.9,Up,0
+52.0,Male,Typical Angina,112.0,213.0,0.0,Normal,166.0,No,2.1,Up,0
+51.0,Male,Atypical Angina,159.0,334.0,0.0,ST-T Wave Abnormality,157.0,No,0.4,Flat,1
+62.0,Female,Asymptomatic,124.0,216.0,0.0,Left Ventricular Hypertrophy,159.0,No,0.4,Flat,1
+59.0,Male,Typical Angina,158.0,241.0,0.0,Normal,109.0,,0.2,Down,1
+51.0,Male,Atypical Angina,142.0,209.0,0.0,Normal,149.0,No,0.0,Up,0
+66.0,Male,,127.0,,0.0,Normal,134.0,Yes,0.0,Flat,1
+44.0,Male,Atypical Angina,120.0,161.0,0.0,ST-T Wave Abnormality,147.0,No,2.0,Up,0
+61.0,Female,Asymptomatic,123.0,215.0,0.0,,124.0,Yes,1.1,Down,1
+60.0,Male,Typical Angina,137.0,190.0,0.0,Left Ventricular Hypertrophy,125.0,Yes,1.1,Down,1
+51.0,Female,Non-Anginal Pain,131.0,246.0,0.0,Normal,132.0,No,1.0,Up,0
+58.0,Female,,,284.0,1.0,Left Ventricular Hypertrophy,151.0,No,1.9,Flat,1
+42.0,Male,Asymptomatic,127.0,269.0,0.0,ST-T Wave Abnormality,162.0,Yes,0.7,Flat,1
+64.0,Female,Typical Angina,131.0,133.0,0.0,Left Ventricular Hypertrophy,124.0,No,2.0,Up,0
+53.0,Male,Atypical Angina,91.0,331.0,0.0,Normal,154.0,Yes,0.4,Flat,1
+49.0,Male,Asymptomatic,138.0,253.0,0.0,Normal,151.0,No,2.6,Up,1
+65.0,Male,Asymptomatic,112.0,205.0,0.0,ST-T Wave Abnormality,129.0,No,1.2,Flat,1
+47.0,Female,Atypical Angina,109.0,247.0,0.0,Left Ventricular Hypertrophy,141.0,No,0.3,Up,0
+40.0,Female,Atypical Angina,99.0,,0.0,Left Ventricular Hypertrophy,186.0,No,0.8,Up,0
+39.0,Male,Atypical Angina,97.0,209.0,1.0,Normal,150.0,No,0.8,Up,0
+,Female,Atypical Angina,105.0,248.0,0.0,Normal,142.0,No,0.1,Flat,0
+42.0,Male,Atypical Angina,117.0,212.0,0.0,Left Ventricular Hypertrophy,147.0,Yes,0.9,Flat,1
+72.0,,Non-Anginal Pain,165.0,221.0,0.0,Normal,116.0,No,0.4,Down,1
+34.0,Male,,120.0,209.0,0.0,ST-T Wave Abnormality,141.0,No,0.1,Up,0
+71.0,Female,Atypical Angina,133.0,175.0,0.0,Normal,108.0,No,3.0,Up,1
+57.0,Female,Asymptomatic,137.0,246.0,,Normal,,Yes,1.0,Flat,1
+54.0,Male,Asymptomatic,132.0,266.0,0.0,Left Ventricular Hypertrophy,124.0,Yes,2.1,Flat,1
+49.0,Male,Non-Anginal Pain,128.0,263.0,0.0,Left Ventricular Hypertrophy,146.0,Yes,1.1,Up,1
+58.0,Male,Typical Angina,108.0,276.0,0.0,Normal,141.0,No,0.4,Up,0
+54.0,,Typical Angina,156.0,254.0,0.0,Normal,,No,0.7,Flat,1
+66.0,Male,Asymptomatic,162.0,216.0,1.0,Left Ventricular Hypertrophy,123.0,Yes,1.1,Up,1
+56.0,Female,Atypical Angina,99.0,277.0,0.0,Normal,148.0,No,3.2,Flat,1
+56.0,Male,Typical Angina,111.0,178.0,0.0,Left Ventricular Hypertrophy,137.0,No,0.3,Flat,0
+51.0,Male,Non-Anginal Pain,124.0,199.0,0.0,Normal,149.0,Yes,2.1,,1
+54.0,Male,Non-Anginal Pain,112.0,196.0,1.0,ST-T Wave Abnormality,158.0,No,2.6,Flat,1
+58.0,Female,Non-Anginal Pain,139.0,288.0,1.0,Left Ventricular Hypertrophy,122.0,No,1.1,Up,1
+37.0,Female,Atypical Angina,116.0,282.0,,ST-T Wave Abnormality,162.0,No,2.7,Flat,0
+41.0,Male,Typical Angina,168.0,261.0,0.0,Normal,,No,0.5,Flat,1
+62.0,Female,Asymptomatic,151.0,288.0,0.0,ST-T Wave Abnormality,162.0,Yes,3.1,Up,1
+56.0,Male,Atypical Angina,133.0,200.0,0.0,Normal,152.0,No,1.2,Flat,1
+53.0,Male,Asymptomatic,148.0,255.0,0.0,Normal,146.0,Yes,0.0,Up,1
+55.0,Male,Asymptomatic,149.0,234.0,0.0,Left Ventricular Hypertrophy,127.0,Yes,2.4,Flat,1
+58.0,Male,Non-Anginal Pain,119.0,278.0,0.0,Left Ventricular Hypertrophy,136.0,No,0.7,Flat,1
+49.0,Male,Atypical Angina,115.0,234.0,0.0,ST-T Wave Abnormality,146.0,No,0.6,Flat,0
+47.0,,Atypical Angina,131.0,222.0,0.0,Normal,169.0,No,0.8,Up,0
+56.0,Female,Non-Anginal Pain,145.0,264.0,0.0,Normal,161.0,Yes,0.2,Up,0
+45.0,Female,Asymptomatic,132.0,279.0,1.0,Normal,150.0,No,0.6,Down,1
+59.0,,Asymptomatic,101.0,209.0,0.0,ST-T Wave Abnormality,161.0,No,1.8,Flat,1
+37.0,Male,,115.0,237.0,0.0,Left Ventricular Hypertrophy,170.0,No,0.0,,0
+65.0,Female,Typical Angina,128.0,192.0,0.0,Normal,127.0,No,,,0
+59.0,Male,Asymptomatic,128.0,127.0,1.0,Left Ventricular Hypertrophy,155.0,No,0.0,Up,0
+57.0,Male,Asymptomatic,165.0,,0.0,Normal,118.0,No,0.5,Flat,1
+64.0,Male,Asymptomatic,105.0,267.0,0.0,Normal,117.0,Yes,1.3,Flat,1
+71.0,Female,Atypical Angina,139.0,251.0,0.0,Normal,152.0,No,1.6,Flat,1
+65.0,Male,Non-Anginal Pain,156.0,,0.0,Normal,148.0,Yes,2.9,Flat,1
+36.0,Male,Asymptomatic,170.0,224.0,0.0,Normal,198.0,Yes,0.9,Flat,1
+42.0,Female,Asymptomatic,122.0,140.0,,Left Ventricular Hypertrophy,169.0,Yes,0.3,Up,0
+48.0,Male,Atypical Angina,138.0,301.0,0.0,Normal,140.0,Yes,,Up,1
+55.0,Male,Typical Angina,140.0,191.0,0.0,Left Ventricular Hypertrophy,151.0,Yes,1.5,Flat,1
+60.0,Male,Non-Anginal Pain,133.0,296.0,0.0,Normal,133.0,Yes,0.9,Down,1
+47.0,Male,Atypical Angina,128.0,282.0,0.0,Left Ventricular Hypertrophy,175.0,Yes,1.2,Flat,1
+56.0,,Non-Anginal Pain,137.0,199.0,0.0,ST-T Wave Abnormality,132.0,No,2.6,Flat,1
+47.0,Male,Asymptomatic,90.0,189.0,0.0,Left Ventricular Hypertrophy,,Yes,1.2,Flat,1
+48.0,Male,Atypical Angina,142.0,255.0,0.0,Normal,151.0,No,0.5,Down,1
+40.0,Female,Asymptomatic,,202.0,0.0,Left Ventricular Hypertrophy,161.0,Yes,1.2,Up,0
+45.0,Female,Typical Angina,125.0,244.0,0.0,Left Ventricular Hypertrophy,174.0,No,0.0,Up,0
+41.0,Female,Asymptomatic,,218.0,0.0,Normal,176.0,No,0.5,Down,1
+45.0,Male,Asymptomatic,117.0,159.0,0.0,Normal,140.0,No,0.5,Flat,1
+65.0,Male,Typical Angina,122.0,139.0,0.0,Normal,129.0,No,0.2,Up,0
+45.0,Female,Typical Angina,165.0,250.0,0.0,Left Ventricular Hypertrophy,139.0,Yes,0.0,Flat,1
+81.0,Female,Atypical Angina,115.0,214.0,0.0,Normal,114.0,No,0.1,Up,0
+59.0,Male,Typical Angina,120.0,215.0,1.0,Normal,138.0,No,1.1,Up,0
+56.0,Male,Asymptomatic,127.0,271.0,0.0,Normal,169.0,No,1.6,Down,1
+46.0,Male,Asymptomatic,145.0,292.0,0.0,Normal,158.0,No,4.4,Up,1
+62.0,Female,Atypical Angina,133.0,227.0,0.0,Left Ventricular Hypertrophy,138.0,Yes,0.4,Flat,1
+49.0,Male,Atypical Angina,106.0,224.0,0.0,Normal,121.0,No,0.9,Up,0
+56.0,Male,Atypical Angina,120.0,262.0,0.0,,133.0,Yes,2.8,Flat,1
+80.0,Male,Asymptomatic,119.0,178.0,1.0,Left Ventricular Hypertrophy,96.0,No,0.2,Up,1
+54.0,Female,Typical Angina,128.0,250.0,0.0,Normal,137.0,,1.3,Flat,1
+66.0,Female,Non-Anginal Pain,137.0,264.0,0.0,ST-T Wave Abnormality,144.0,No,1.4,Flat,1
+47.0,Male,Non-Anginal Pain,137.0,270.0,0.0,Normal,151.0,Yes,0.1,Flat,1
+54.0,Female,Non-Anginal Pain,98.0,152.0,0.0,ST-T Wave Abnormality,142.0,Yes,2.0,Up,0
+72.0,Female,Atypical Angina,149.0,205.0,1.0,Normal,142.0,No,1.7,Up,0
+48.0,Male,Asymptomatic,134.0,200.0,0.0,Left Ventricular Hypertrophy,157.0,No,0.0,Up,0
+73.0,Male,Typical Angina,154.0,244.0,0.0,Normal,130.0,No,0.1,Up,0
+62.0,Male,Typical Angina,137.0,261.0,0.0,Normal,113.0,Yes,0.1,Flat,1
+49.0,Female,Asymptomatic,149.0,307.0,1.0,ST-T Wave Abnormality,182.0,Yes,0.4,Flat,1
+61.0,Male,Asymptomatic,138.0,217.0,0.0,Normal,120.0,No,0.7,Flat,1
+64.0,Female,Typical Angina,154.0,217.0,1.0,Left Ventricular Hypertrophy,150.0,No,0.8,Flat,1
+,Female,Atypical Angina,139.0,291.0,0.0,Normal,159.0,No,0.3,Up,0
+39.0,Male,Atypical Angina,128.0,253.0,0.0,ST-T Wave Abnormality,143.0,No,2.4,Up,1
+47.0,Female,Atypical Angina,170.0,297.0,0.0,Normal,142.0,No,0.5,Up,0
+52.0,Male,Atypical Angina,146.0,252.0,0.0,ST-T Wave Abnormality,129.0,No,0.0,Flat,1
+54.0,Male,Typical Angina,140.0,187.0,0.0,Normal,133.0,No,0.4,Flat,0
+61.0,Female,Non-Anginal Pain,107.0,180.0,0.0,Normal,108.0,No,0.8,Up,0
+56.0,Female,Asymptomatic,106.0,170.0,0.0,Normal,135.0,,0.5,Up,0
+41.0,Male,Non-Anginal Pain,135.0,269.0,0.0,Left Ventricular Hypertrophy,161.0,No,0.3,Flat,0
+58.0,Female,Asymptomatic,132.0,293.0,0.0,Normal,136.0,No,0.1,Flat,1
+61.0,Female,Typical Angina,118.0,323.0,1.0,Left Ventricular Hypertrophy,120.0,Yes,1.7,Flat,1
+60.0,Male,Asymptomatic,132.0,277.0,0.0,Left Ventricular Hypertrophy,151.0,Yes,5.6,Up,1
+65.0,Female,Asymptomatic,158.0,292.0,0.0,Normal,144.0,Yes,0.4,Up,1
+63.0,Male,Asymptomatic,142.0,213.0,0.0,ST-T Wave Abnormality,141.0,No,0.5,Down,1
+59.0,Male,Asymptomatic,109.0,187.0,1.0,Normal,172.0,Yes,1.0,Flat,1
+54.0,Male,Asymptomatic,127.0,278.0,0.0,Normal,143.0,Yes,1.3,Up,1
+,Female,Non-Anginal Pain,115.0,258.0,,Left Ventricular Hypertrophy,190.0,No,0.5,Flat,0
+59.0,Female,Atypical Angina,123.0,244.0,0.0,ST-T Wave Abnormality,140.0,No,2.4,Flat,1
+57.0,Male,Non-Anginal Pain,,257.0,0.0,ST-T Wave Abnormality,130.0,,0.8,Up,0
+57.0,Male,Asymptomatic,121.0,254.0,0.0,Normal,150.0,No,0.6,Up,0
+42.0,Female,Asymptomatic,107.0,297.0,1.0,Normal,132.0,No,1.0,Up,1
+44.0,Male,Non-Anginal Pain,127.0,298.0,0.0,Normal,177.0,No,3.1,Up,0
+65.0,Female,Typical Angina,119.0,264.0,0.0,Left Ventricular Hypertrophy,117.0,No,1.6,Flat,1
+54.0,Female,,90.0,278.0,0.0,Normal,135.0,No,0.0,Up,0
+61.0,Male,Asymptomatic,166.0,263.0,0.0,Left Ventricular Hypertrophy,164.0,Yes,0.4,Flat,1
+55.0,Female,Non-Anginal Pain,149.0,219.0,0.0,Normal,104.0,No,0.6,Down,1
+55.0,Male,Non-Anginal Pain,,274.0,1.0,Normal,145.0,Yes,0.4,Up,0
+64.0,Female,Atypical Angina,130.0,177.0,1.0,Normal,149.0,Yes,,Flat,1
+49.0,Female,Atypical Angina,108.0,287.0,,Normal,172.0,No,1.8,Flat,0
+55.0,Female,Asymptomatic,160.0,186.0,0.0,,148.0,Yes,1.3,Flat,1
+50.0,,Asymptomatic,164.0,252.0,0.0,Left Ventricular Hypertrophy,151.0,No,4.5,Flat,1
+50.0,Female,Asymptomatic,132.0,201.0,0.0,Left Ventricular Hypertrophy,148.0,No,0.3,Up,0
+51.0,Male,Non-Anginal Pain,148.0,264.0,0.0,Normal,153.0,No,2.1,Flat,1
+57.0,Male,Non-Anginal Pain,133.0,238.0,0.0,Normal,133.0,No,1.5,Flat,1
+50.0,Male,Atypical Angina,105.0,168.0,0.0,,155.0,No,0.4,Down,0
+67.0,Male,Asymptomatic,122.0,258.0,0.0,Left Ventricular Hypertrophy,162.0,Yes,1.3,Up,1
+46.0,Male,Atypical Angina,132.0,213.0,0.0,Normal,156.0,No,0.1,Down,0
+53.0,Female,Atypical Angina,121.0,279.0,0.0,Left Ventricular Hypertrophy,182.0,No,1.6,Up,0
+50.0,Female,Non-Anginal Pain,126.0,240.0,0.0,Normal,144.0,No,0.8,Down,0
+69.0,Male,Asymptomatic,128.0,257.0,0.0,Normal,145.0,No,0.3,Flat,1
+56.0,Female,Typical Angina,128.0,196.0,0.0,Left Ventricular Hypertrophy,141.0,Yes,1.1,,1
+65.0,Male,Asymptomatic,130.0,213.0,0.0,Normal,115.0,Yes,,Flat,1
+40.0,Female,Atypical Angina,,219.0,0.0,ST-T Wave Abnormality,,Yes,0.2,Up,0
+,Female,Atypical Angina,117.0,278.0,1.0,Normal,127.0,No,0.0,Up,0
+63.0,Male,Typical Angina,106.0,315.0,0.0,Normal,143.0,No,0.6,Up,0
+55.0,Female,Atypical Angina,147.0,203.0,0.0,Normal,118.0,No,0.8,Up,0
+65.0,Male,Non-Anginal Pain,92.0,288.0,0.0,ST-T Wave Abnormality,140.0,No,2.1,Up,1
+49.0,Male,Typical Angina,150.0,142.0,0.0,Left Ventricular Hypertrophy,163.0,No,2.6,Flat,1
+69.0,,Non-Anginal Pain,154.0,186.0,0.0,Normal,120.0,No,0.8,Flat,1
+77.0,Male,Asymptomatic,124.0,196.0,0.0,Left Ventricular Hypertrophy,129.0,Yes,1.4,Up,1
+51.0,Male,Typical Angina,90.0,179.0,0.0,Normal,161.0,Yes,0.6,Flat,0
+50.0,Male,Asymptomatic,123.0,168.0,0.0,Normal,157.0,No,1.4,Flat,1
+69.0,Female,Atypical Angina,128.0,258.0,1.0,Normal,131.0,No,0.2,Down,1
+70.0,Male,Asymptomatic,111.0,230.0,0.0,Normal,109.0,No,0.5,Flat,1
+49.0,Male,Atypical Angina,120.0,257.0,0.0,Normal,180.0,Yes,1.0,Up,0
+50.0,Female,Typical Angina,157.0,271.0,0.0,Left Ventricular Hypertrophy,149.0,No,0.0,Flat,0
+52.0,Female,Typical Angina,141.0,251.0,0.0,Normal,,Yes,1.3,Flat,1
+41.0,Male,Typical Angina,113.0,269.0,0.0,Normal,156.0,Yes,1.8,Up,0
+45.0,Male,Typical Angina,101.0,236.0,0.0,Normal,135.0,No,0.5,Up,0
+44.0,Male,Asymptomatic,124.0,186.0,0.0,Left Ventricular Hypertrophy,157.0,Yes,0.6,Up,0
+47.0,Male,Asymptomatic,126.0,287.0,0.0,Left Ventricular Hypertrophy,155.0,Yes,1.9,Up,1
+54.0,Male,Asymptomatic,138.0,213.0,0.0,Normal,137.0,Yes,1.5,Up,1
+57.0,Female,Asymptomatic,120.0,197.0,,Normal,141.0,Yes,0.3,Flat,1
+70.0,Female,Typical Angina,139.0,231.0,0.0,,135.0,No,0.4,Up,0
+45.0,Female,Atypical Angina,164.0,198.0,0.0,Normal,147.0,,1.1,Flat,0
+64.0,Male,Atypical Angina,144.0,221.0,0.0,Normal,145.0,Yes,0.8,Flat,1
+52.0,Female,Atypical Angina,129.0,255.0,0.0,Normal,157.0,Yes,0.2,Up,0
+54.0,Male,Non-Anginal Pain,126.0,255.0,0.0,Normal,153.0,Yes,0.4,Up,0
+61.0,Female,Non-Anginal Pain,123.0,199.0,0.0,Normal,118.0,No,2.3,Up,0
+43.0,Female,Atypical Angina,151.0,218.0,0.0,Normal,202.0,Yes,1.2,Up,0
+58.0,Male,Atypical Angina,118.0,288.0,0.0,Left Ventricular Hypertrophy,136.0,No,4.3,Up,1
+56.0,Female,Asymptomatic,130.0,262.0,1.0,Left Ventricular Hypertrophy,143.0,Yes,1.5,Up,1
+59.0,Male,Asymptomatic,130.0,333.0,0.0,ST-T Wave Abnormality,166.0,Yes,2.8,Flat,1
+57.0,Female,Atypical Angina,120.0,293.0,1.0,Normal,138.0,No,,Flat,0
+79.0,Male,Asymptomatic,105.0,291.0,1.0,Normal,113.0,No,1.5,Up,1
+48.0,Male,Asymptomatic,135.0,177.0,0.0,Normal,143.0,Yes,0.0,Up,0
+49.0,Female,Atypical Angina,128.0,274.0,0.0,Left Ventricular Hypertrophy,190.0,No,1.1,Flat,0
+48.0,Male,Atypical Angina,139.0,237.0,0.0,Normal,131.0,No,0.6,Flat,0
+49.0,Female,Non-Anginal Pain,120.0,215.0,0.0,Left Ventricular Hypertrophy,162.0,No,0.4,Flat,0
+48.0,Male,Asymptomatic,151.0,247.0,0.0,Left Ventricular Hypertrophy,141.0,No,2.0,Flat,1
+66.0,Female,Asymptomatic,114.0,282.0,0.0,Normal,122.0,No,1.9,Up,1
+69.0,Female,Typical Angina,160.0,262.0,0.0,ST-T Wave Abnormality,144.0,No,0.0,,0
+49.0,Male,Atypical Angina,98.0,200.0,0.0,Normal,141.0,Yes,0.9,Flat,1
+46.0,Male,Non-Anginal Pain,137.0,273.0,0.0,Normal,159.0,No,0.5,Up,0
+59.0,Male,Non-Anginal Pain,138.0,211.0,1.0,Normal,172.0,No,0.5,Down,0
+49.0,Male,Typical Angina,115.0,249.0,1.0,Normal,133.0,Yes,1.8,Flat,1
+61.0,Male,Asymptomatic,137.0,226.0,0.0,Left Ventricular Hypertrophy,150.0,Yes,0.4,Flat,1
+57.0,Female,Asymptomatic,153.0,230.0,0.0,Normal,155.0,Yes,2.9,Up,1
+39.0,,Asymptomatic,90.0,274.0,1.0,Normal,167.0,No,0.2,Flat,0
+70.0,Female,Asymptomatic,139.0,193.0,0.0,ST-T Wave Abnormality,,No,1.1,Flat,1
+72.0,Female,Asymptomatic,90.0,327.0,0.0,ST-T Wave Abnormality,128.0,No,1.1,Up,1
+48.0,Female,Atypical Angina,112.0,158.0,0.0,Normal,143.0,Yes,0.3,Up,0
+51.0,Female,Non-Anginal Pain,159.0,213.0,0.0,Left Ventricular Hypertrophy,169.0,No,,Flat,0
+,Male,Typical Angina,119.0,256.0,0.0,ST-T Wave Abnormality,154.0,No,1.8,Flat,1
+58.0,Female,Asymptomatic,108.0,266.0,0.0,Normal,143.0,,1.4,Up,0
+61.0,Female,Typical Angina,126.0,235.0,0.0,Normal,110.0,No,0.4,Up,0
+75.0,Male,Asymptomatic,167.0,237.0,0.0,Normal,126.0,,0.8,Flat,1
+53.0,Male,Atypical Angina,97.0,258.0,0.0,,130.0,No,0.1,Flat,0
+47.0,Male,Typical Angina,111.0,229.0,0.0,ST-T Wave Abnormality,152.0,No,0.2,Flat,0
+41.0,Male,Typical Angina,156.0,302.0,0.0,Left Ventricular Hypertrophy,166.0,No,,Flat,1
+47.0,Female,Typical Angina,163.0,277.0,0.0,Normal,156.0,No,0.1,Up,0
+54.0,Male,Asymptomatic,128.0,279.0,0.0,Normal,148.0,No,1.9,Flat,1
+72.0,Male,Asymptomatic,107.0,196.0,0.0,Normal,118.0,Yes,1.3,Up,1
+49.0,Female,Non-Anginal Pain,167.0,236.0,0.0,Normal,130.0,Yes,2.9,Down,1
+57.0,Male,Typical Angina,158.0,226.0,1.0,ST-T Wave Abnormality,137.0,Yes,1.2,Flat,1
+54.0,Male,Typical Angina,142.0,194.0,0.0,Left Ventricular Hypertrophy,128.0,No,2.8,Up,1
+66.0,Male,Typical Angina,115.0,256.0,0.0,Normal,148.0,No,0.8,Up,0
+80.0,Female,Typical Angina,129.0,215.0,0.0,Normal,,Yes,0.9,Flat,1
+49.0,Female,Asymptomatic,127.0,269.0,0.0,Normal,161.0,Yes,3.8,Up,1
+50.0,Male,Atypical Angina,135.0,191.0,0.0,Normal,145.0,No,1.0,Up,0
+65.0,Female,Atypical Angina,156.0,317.0,0.0,Normal,140.0,No,0.0,Flat,0
+61.0,,,145.0,199.0,0.0,Normal,128.0,No,1.3,Up,0
+73.0,Female,Atypical Angina,110.0,249.0,0.0,Normal,140.0,No,2.4,Flat,1
+60.0,Female,Non-Anginal Pain,154.0,275.0,0.0,Normal,139.0,No,1.6,Up,1
+51.0,Female,Non-Anginal Pain,135.0,214.0,0.0,Normal,138.0,No,0.9,Flat,0
+60.0,Male,Atypical Angina,142.0,278.0,1.0,Normal,170.0,No,1.1,Up,0
+66.0,Female,Typical Angina,156.0,184.0,1.0,,102.0,Yes,4.6,Up,1
+63.0,Female,Atypical Angina,109.0,305.0,0.0,Normal,141.0,No,0.1,Flat,0
+60.0,Male,Atypical Angina,129.0,240.0,0.0,Left Ventricular Hypertrophy,,Yes,1.1,Flat,1
+65.0,Female,Atypical Angina,120.0,213.0,0.0,Normal,132.0,No,0.3,Up,0
+66.0,Male,Asymptomatic,101.0,226.0,0.0,Normal,133.0,No,1.0,Up,0
+68.0,Female,Non-Anginal Pain,136.0,276.0,0.0,Normal,133.0,No,0.9,Flat,1
+61.0,Male,Non-Anginal Pain,175.0,213.0,1.0,Normal,124.0,Yes,0.2,Flat,1
+53.0,Female,Atypical Angina,96.0,206.0,,Left Ventricular Hypertrophy,135.0,No,0.2,Down,0
+56.0,Male,Atypical Angina,129.0,230.0,0.0,Normal,139.0,Yes,1.0,Down,1
+67.0,Male,Non-Anginal Pain,141.0,187.0,0.0,Left Ventricular Hypertrophy,126.0,Yes,0.1,Flat,1
+46.0,Male,Asymptomatic,132.0,321.0,0.0,Left Ventricular Hypertrophy,155.0,Yes,0.3,,1
+58.0,Male,Asymptomatic,,214.0,1.0,Normal,115.0,No,1.8,Flat,1
+51.0,Male,Typical Angina,106.0,,0.0,Normal,,No,0.4,Flat,0
+55.0,Male,Non-Anginal Pain,134.0,249.0,0.0,ST-T Wave Abnormality,142.0,No,0.7,Up,0
+67.0,Male,Atypical Angina,116.0,195.0,0.0,Normal,132.0,No,2.8,,1
+56.0,Male,,90.0,239.0,0.0,ST-T Wave Abnormality,131.0,No,0.3,Up,1
+55.0,Male,Non-Anginal Pain,151.0,275.0,0.0,Normal,157.0,No,0.5,Up,0
+41.0,Female,Non-Anginal Pain,147.0,231.0,1.0,Normal,185.0,No,0.9,Up,0
+62.0,Male,Typical Angina,130.0,293.0,0.0,Normal,135.0,No,1.4,Flat,1
+61.0,Female,Non-Anginal Pain,134.0,285.0,0.0,Normal,134.0,No,2.3,Flat,1
+76.0,Female,Typical Angina,149.0,281.0,1.0,Left Ventricular Hypertrophy,101.0,No,2.5,Flat,1
+51.0,Female,Atypical Angina,134.0,219.0,0.0,Normal,168.0,No,1.5,Up,0
+57.0,Male,Typical Angina,146.0,191.0,0.0,Left Ventricular Hypertrophy,125.0,No,0.3,Up,0
+57.0,,Asymptomatic,124.0,212.0,0.0,,107.0,Yes,0.0,Flat,1
+70.0,Male,Atypical Angina,153.0,248.0,0.0,Normal,135.0,Yes,0.5,Up,1
+54.0,Male,Atypical Angina,135.0,264.0,0.0,Normal,165.0,No,0.2,Flat,0
+57.0,Male,Asymptomatic,133.0,142.0,0.0,Normal,149.0,Yes,1.2,Down,1
+61.0,Female,Atypical Angina,107.0,239.0,0.0,Normal,138.0,Yes,1.1,Up,0
+56.0,Male,Non-Anginal Pain,135.0,247.0,1.0,Normal,135.0,No,0.0,Up,0
+50.0,Male,Atypical Angina,115.0,227.0,0.0,Left Ventricular Hypertrophy,158.0,Yes,1.8,Flat,1
+56.0,Female,Typical Angina,118.0,298.0,0.0,Normal,120.0,No,0.3,Down,1
+65.0,Female,Asymptomatic,115.0,258.0,0.0,Normal,151.0,No,0.6,Flat,1
+44.0,Male,Typical Angina,110.0,298.0,0.0,Left Ventricular Hypertrophy,182.0,No,1.1,Flat,0
+56.0,Male,Non-Anginal Pain,168.0,230.0,0.0,Left Ventricular Hypertrophy,127.0,Yes,0.6,Up,1
+47.0,Female,Non-Anginal Pain,153.0,282.0,0.0,Normal,187.0,Yes,0.6,Down,0
+66.0,Male,Non-Anginal Pain,164.0,313.0,0.0,Normal,137.0,No,0.1,Up,0
+39.0,Male,Asymptomatic,107.0,299.0,0.0,Left Ventricular Hypertrophy,114.0,Yes,0.5,Up,1
+49.0,Male,Atypical Angina,131.0,190.0,0.0,ST-T Wave Abnormality,151.0,Yes,1.4,Flat,1
+58.0,Female,Typical Angina,106.0,228.0,0.0,Normal,,Yes,2.5,Down,1
+70.0,Female,Asymptomatic,,224.0,0.0,Normal,130.0,Yes,0.5,Up,1
+54.0,Female,Non-Anginal Pain,113.0,262.0,0.0,Left Ventricular Hypertrophy,146.0,Yes,0.6,Up,0
+49.0,Female,Asymptomatic,152.0,270.0,0.0,Normal,148.0,No,1.2,Up,1
+73.0,Male,Asymptomatic,122.0,202.0,0.0,Left Ventricular Hypertrophy,117.0,Yes,2.9,Up,1
+40.0,Male,Asymptomatic,149.0,243.0,0.0,Normal,175.0,Yes,0.3,Up,0
+33.0,Male,Non-Anginal Pain,140.0,149.0,0.0,Left Ventricular Hypertrophy,141.0,No,0.6,Down,0
+59.0,Male,Atypical Angina,171.0,304.0,1.0,Normal,137.0,No,1.6,Flat,1
+49.0,Male,Asymptomatic,103.0,216.0,0.0,Normal,140.0,Yes,0.9,Flat,1
+44.0,Female,Non-Anginal Pain,152.0,242.0,0.0,Left Ventricular Hypertrophy,165.0,Yes,0.1,Flat,0
+62.0,Female,Typical Angina,150.0,226.0,0.0,Normal,118.0,No,1.0,Flat,0
+57.0,Female,Asymptomatic,112.0,291.0,0.0,Normal,146.0,No,0.2,Flat,1
+49.0,Male,Asymptomatic,148.0,120.0,0.0,Normal,146.0,No,0.7,Flat,1
+42.0,Female,Non-Anginal Pain,136.0,239.0,0.0,Normal,171.0,No,0.8,Up,0
+63.0,Female,Typical Angina,125.0,235.0,0.0,Normal,151.0,Yes,2.1,Flat,1
+61.0,Male,Atypical Angina,115.0,219.0,0.0,ST-T Wave Abnormality,128.0,No,0.6,Flat,1
+54.0,Female,Asymptomatic,117.0,317.0,1.0,Normal,152.0,Yes,0.3,Flat,1
+73.0,Male,Asymptomatic,166.0,200.0,0.0,Normal,139.0,No,0.3,Down,1
+44.0,Male,Atypical Angina,130.0,274.0,0.0,Normal,165.0,No,2.1,Up,0
+39.0,Male,Typical Angina,144.0,256.0,,ST-T Wave Abnormality,150.0,No,0.2,Flat,0
+48.0,Male,Asymptomatic,115.0,296.0,0.0,Left Ventricular Hypertrophy,161.0,Yes,0.6,Up,1
+54.0,Male,Atypical Angina,115.0,209.0,1.0,Normal,147.0,Yes,0.2,Flat,0
+57.0,Female,Non-Anginal Pain,149.0,207.0,0.0,Normal,142.0,No,1.5,Up,0
+52.0,Female,Asymptomatic,105.0,289.0,0.0,Left Ventricular Hypertrophy,176.0,No,0.6,Up,0
+58.0,Female,Typical Angina,122.0,259.0,1.0,Normal,164.0,No,0.4,Up,0
+42.0,Female,Non-Anginal Pain,130.0,170.0,0.0,Left Ventricular Hypertrophy,152.0,Yes,0.4,Flat,0
+69.0,Male,Typical Angina,132.0,215.0,0.0,Left Ventricular Hypertrophy,142.0,Yes,1.9,Up,1
+54.0,Female,Atypical Angina,126.0,257.0,0.0,Left Ventricular Hypertrophy,130.0,No,0.8,Down,1
+66.0,Male,Asymptomatic,137.0,277.0,0.0,Normal,119.0,Yes,1.3,,1
+58.0,Male,Atypical Angina,142.0,209.0,0.0,Left Ventricular Hypertrophy,131.0,No,2.3,Down,1
+59.0,Male,Asymptomatic,143.0,120.0,0.0,Left Ventricular Hypertrophy,113.0,No,2.3,Flat,1
+60.0,Male,Non-Anginal Pain,112.0,263.0,0.0,ST-T Wave Abnormality,141.0,No,0.4,Up,0
+59.0,Male,Atypical Angina,124.0,185.0,0.0,Normal,131.0,,3.0,Up,1
+61.0,Male,Atypical Angina,,149.0,0.0,Normal,147.0,No,0.0,Flat,0
+68.0,Male,Atypical Angina,146.0,120.0,0.0,Normal,95.0,Yes,0.5,Flat,1
+56.0,Female,Atypical Angina,105.0,276.0,,Normal,114.0,,2.3,Flat,1
+62.0,Male,Typical Angina,136.0,245.0,0.0,ST-T Wave Abnormality,137.0,Yes,0.3,Up,1
+54.0,Male,Atypical Angina,94.0,229.0,0.0,Normal,140.0,No,0.3,Flat,0
+69.0,Male,Non-Anginal Pain,130.0,302.0,0.0,Normal,110.0,Yes,0.4,Down,1
+48.0,Female,Asymptomatic,164.0,268.0,0.0,Normal,154.0,No,0.9,Up,0
+73.0,Male,Asymptomatic,112.0,312.0,1.0,ST-T Wave Abnormality,136.0,Yes,0.6,Up,1
+54.0,Male,Asymptomatic,114.0,177.0,0.0,Left Ventricular Hypertrophy,132.0,Yes,1.3,Up,1
+40.0,Male,Typical Angina,143.0,238.0,0.0,Normal,158.0,No,2.3,Flat,1
+56.0,Male,Atypical Angina,102.0,167.0,0.0,Normal,141.0,Yes,1.1,Flat,1
+48.0,Male,Asymptomatic,118.0,229.0,1.0,Normal,164.0,No,0.2,Up,0
+63.0,Male,Non-Anginal Pain,140.0,228.0,0.0,ST-T Wave Abnormality,162.0,No,2.7,Up,1
+48.0,Male,Typical Angina,118.0,268.0,0.0,Left Ventricular Hypertrophy,148.0,Yes,0.3,Up,0
+50.0,Male,Asymptomatic,125.0,242.0,0.0,Left Ventricular Hypertrophy,136.0,No,0.2,Up,0
+36.0,Male,Asymptomatic,143.0,268.0,0.0,Normal,167.0,Yes,0.1,Up,0
+50.0,Female,Non-Anginal Pain,137.0,271.0,0.0,Left Ventricular Hypertrophy,128.0,Yes,0.8,Down,1
+30.0,Male,Typical Angina,134.0,336.0,1.0,Normal,180.0,No,0.1,Flat,0
+39.0,Male,Asymptomatic,123.0,225.0,0.0,ST-T Wave Abnormality,176.0,No,0.1,Up,0
+62.0,Male,Non-Anginal Pain,136.0,197.0,1.0,Normal,139.0,Yes,0.4,Flat,1
+62.0,Female,Asymptomatic,127.0,251.0,0.0,Left Ventricular Hypertrophy,139.0,No,0.3,Flat,1
+59.0,Male,Asymptomatic,138.0,203.0,0.0,Normal,129.0,No,0.9,Flat,1
+45.0,Male,Asymptomatic,121.0,306.0,0.0,ST-T Wave Abnormality,166.0,,1.7,Up,1
+54.0,Female,Non-Anginal Pain,126.0,227.0,0.0,Left Ventricular Hypertrophy,125.0,Yes,1.4,Up,0
+54.0,Male,Typical Angina,112.0,214.0,0.0,Normal,,No,0.3,Down,1
+43.0,Male,Asymptomatic,129.0,218.0,0.0,Normal,157.0,No,0.3,Flat,1
+70.0,Male,Non-Anginal Pain,115.0,272.0,0.0,Left Ventricular Hypertrophy,111.0,No,3.4,Up,1
+63.0,Female,Asymptomatic,109.0,232.0,0.0,Normal,152.0,No,0.0,Flat,0
+52.0,Male,Typical Angina,134.0,211.0,0.0,Normal,131.0,No,2.1,Down,1
+55.0,Female,Typical Angina,133.0,314.0,1.0,Normal,129.0,Yes,0.2,Up,0
+57.0,Female,Asymptomatic,144.0,201.0,0.0,ST-T Wave Abnormality,130.0,,2.9,Flat,1
+34.0,Male,Asymptomatic,122.0,241.0,0.0,Normal,166.0,,0.4,Down,1
+52.0,Male,Asymptomatic,137.0,269.0,1.0,Normal,192.0,Yes,0.6,Up,1
+48.0,Male,Asymptomatic,139.0,166.0,0.0,Normal,161.0,No,1.2,Flat,1
+44.0,Male,Non-Anginal Pain,,261.0,0.0,Normal,165.0,No,0.9,Flat,0
+52.0,Male,,115.0,192.0,1.0,Left Ventricular Hypertrophy,162.0,No,0.4,Flat,0
+72.0,Female,Asymptomatic,132.0,277.0,0.0,Left Ventricular Hypertrophy,126.0,No,0.8,Up,1
+61.0,Female,Non-Anginal Pain,136.0,196.0,,ST-T Wave Abnormality,145.0,Yes,1.3,Up,0
+49.0,Female,Non-Anginal Pain,130.0,271.0,0.0,Normal,163.0,No,0.0,Flat,0
+60.0,,Typical Angina,92.0,289.0,1.0,Left Ventricular Hypertrophy,,No,0.0,Up,0
+68.0,Female,Non-Anginal Pain,132.0,278.0,,Normal,142.0,No,0.6,Up,0
+64.0,Female,,169.0,251.0,0.0,Normal,119.0,No,0.1,Up,0
+55.0,Female,Atypical Angina,123.0,229.0,0.0,Left Ventricular Hypertrophy,154.0,No,1.1,Up,0
+48.0,Male,,116.0,214.0,0.0,Left Ventricular Hypertrophy,159.0,No,0.2,Down,0
+61.0,Female,Atypical Angina,136.0,306.0,0.0,Left Ventricular Hypertrophy,145.0,No,0.6,Up,0
+58.0,Male,Atypical Angina,135.0,208.0,0.0,Left Ventricular Hypertrophy,136.0,No,0.2,Down,1
+63.0,Male,Atypical Angina,151.0,193.0,0.0,Normal,130.0,No,0.8,Up,0
+61.0,Male,Atypical Angina,107.0,269.0,0.0,Normal,184.0,No,0.1,Flat,0
+65.0,Female,Asymptomatic,143.0,204.0,0.0,ST-T Wave Abnormality,119.0,Yes,0.0,Up,1
+49.0,Female,Non-Anginal Pain,140.0,197.0,0.0,Normal,129.0,Yes,0.1,Flat,0
+68.0,Male,Typical Angina,127.0,175.0,0.0,Normal,147.0,No,3.1,Flat,1
+56.0,Male,Typical Angina,136.0,218.0,1.0,Left Ventricular Hypertrophy,158.0,Yes,0.2,Up,0
+75.0,Male,Asymptomatic,148.0,236.0,0.0,Left Ventricular Hypertrophy,131.0,No,1.2,Down,1
+48.0,Male,Atypical Angina,145.0,250.0,0.0,Normal,163.0,Yes,0.1,Up,0
+72.0,,Asymptomatic,109.0,282.0,0.0,Left Ventricular Hypertrophy,124.0,No,0.1,,1
+56.0,Male,Asymptomatic,144.0,263.0,0.0,Left Ventricular Hypertrophy,173.0,Yes,0.7,Down,1
+48.0,Female,Asymptomatic,128.0,231.0,0.0,ST-T Wave Abnormality,168.0,Yes,0.6,Flat,1
+50.0,Male,Atypical Angina,131.0,231.0,0.0,Normal,126.0,No,3.0,Down,1
+51.0,Male,Asymptomatic,131.0,262.0,1.0,Normal,,No,2.9,Up,1
+59.0,Male,Atypical Angina,127.0,297.0,0.0,Normal,122.0,No,1.5,Up,0
